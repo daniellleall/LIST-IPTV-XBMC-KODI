@@ -1,0 +1,390 @@
+#EXTM3U
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Informação/ Información/ Information", [COLOR yellow]***Informação/ Información/ Information***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *UPDATE 18/06/2015* \o/
+http://0.0.0.0:0000
+
+#EXTINF:-1 group-title="Informação/ Información/ Information", by DANIELL LEALL
+http://0.0.0.0:0000
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Brasil Canais Abertos", [COLOR yellow]***Brasil Canais Abertos***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", REDE GLOBO
+rtmp://r.livecast.cc/rl/ playpath=bob15sd swfurl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/stream13.php
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", REDE GLOBO [COLOR gray](Link 2)[/COLOR]
+rtmp://62.210.88.233:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE1IDk6MTg6MzcgUE0maGFzaF92YWx1ZT16N213VGNTOUdpMTlZc0xWTzlnZytRPT0mdmFsaWRtaW51dGVzPTMwMDA=/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds/1.php?c=tudonovo23&vw=100%&vh=100%
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", REDE GLOBO [COLOR gray](Link 3)[/COLOR]
+rtmp://62.210.83.180:1935/liverepeat/ playpath=101010  swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://www.ppcast.net/embedP/3.php?file=zuca3&width=468&height=359
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", REDE GLOBO [COLOR gray](Link 4)[/COLOR]
+rtmp://217.23.7.178/livepkgr playpath=sptv swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/78.php?file=sptv&width=470&height=370
+
+
+
+
+
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", SBT
+rtmp://76.73.108.24/livepkgr playpath=sbt swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/24.php?file=sbt&width=480&height=380
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", SBT [COLOR gray](Link 2)[/COLOR]
+rtmp://94.242.228.41:1935/live/ playpath=sbt2 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/sbt.html
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", SBT [COLOR gray](Link 3)[/COLOR]
+rtmp://live.pxstream.tv/redirect playpath=sbt978  swfUrl=http://pxstream.tv/jwplayer.flash.swf?IGOR_RANGEL live=1 pageUrl=http://pxstream.tv/ token=#ed%h0#w@1
+
+#EXTINF:-1 group-title="Brasil Canais Abertos", SBT [COLOR gray](Link 4)[/COLOR]
+http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
+
+
+
+#EXTINF:-1, BAND
+rtmp://178.162.194.26:443/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE1IDk6Mzc6NDUgUE0maGFzaF92YWx1ZT1wL3NPZ0xpM0M0VlcvMVFMMW1MeWJnPT0mdmFsaWRtaW51dGVzPTg=/ playpath=agua1 swfUrl=http://pxstream.tv/jwplayer.flash.swf pageUrl=http://pxstream.tv/embed.php?file=bandei&width=640&height=380
+
+#EXTINF:-1, RECORD
+http://rtmp.cdn.upx.net.br:1935/00161/myStream.sdp/live.m3u8
+
+#EXTINF:-1, RECORD NEWS
+http://flash.midiaip.com.br:1935/recordnewses/recordnewses/live.m3u8
+
+#EXTINF:-1, REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1, REDE TV (LINK 2)
+http://flash1.crossdigital.com.br:1935/ponto4/tvpampa/live.m3u8
+
+#EXTINF:-1, TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Brasil Canais Fechados", [COLOR yellow]***Brasil Canais Fechados***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1 group-title="Brasil Canais Fechados", Fox
+rtmp://76.73.108.36/livepkgr playpath=fox swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/36.php?file=fox&width=468&height=360
+
+#EXTINF:-1 group-title="Brasil Canais Fechados", NatGeo HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?
+
+#EXTINF:-1 group-title="Brasil Canais Fechados", History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?
+
+#EXTINF:-1 group-title="Brasil Canais Fechados", Caça e Pesca HD
+http://noscdn1.connectedviews.com:1935/live/odisseia.stream/livestream.m3u8
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Brasil Series 24hrs", [COLOR yellow]***Brasil Series 24hrs***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Dois Homens e Meio
+rtmp://208.53.164.194/ctv playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/two.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Dois Homens e Meio (LINK 2)
+http://62.210.88.244:8081/two/two/media_w346720864_541859.ts?nimblesessionid=360734&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE1IDEwOjI1OjQ4IFBNJmhhc2hfdmFsdWU9ck9TTk9DOFJOVHFiNkdCdWcrR1R2dz09JnZhbGlkbWludXRlcz0zMA==
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", The Big Bang Theory
+rtmp://208.53.180.218/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Sobrenatural
+rtmp://208.53.180.218/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Breaking Bad
+rtmp://208.53.180.242/ctv playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/breaking.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Chaves
+rtmp://208.53.180.218/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Chappolin
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chchapolintv/2008/06/25/e8b64ba4-d4dd-4e74-8914-24e607decbff
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Criminal Minds
+rtmp://208.53.180.218/ctv playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/criminalminds.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", CSI
+rtmp://208.53.164.194/ctv playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Mr Bean
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv01/mogulus-user-files/chmrbean/2008/07/13/0656019f-e01e-465d-84bb-9b2373e4987b
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Um Maluco no Pedaço
+rtmp://208.53.180.218/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Todo Mundo Odeia o Chris
+rtmp://208.53.180.130/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Smallville
+rtmp://208.53.180.242/ctv playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/small.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Prison Break
+rtmp://208.53.180.242/ctv playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/prisonbreak.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Lost
+rtmp://208.53.180.242/ctv playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/lost.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Kenan e Kel
+rtmp://208.53.180.178/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Heroes
+rtmp://208.53.180.178/ctv playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/heroes.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Friends
+rtmp://208.53.180.130/ctv playpath=friends swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/friends.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Chuck
+rtmp://208.53.180.130/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", ICarly
+rtmp://208.53.164.194/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/icarly.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Castelo Rá-Tim-Bum
+rtmp://208.53.180.178/ctv playpath=castelo swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/castelo.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Drake e Josh
+rtmp://208.53.180.130/ctv playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/drakejosh.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Eu a Patroa e as Crianças
+rtmp://208.53.180.242/ctv playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Gossip Girl
+rtmp://208.53.180.242/ctv playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/gossip.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Glee
+rtmp://208.53.180.178/ctv playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/glee.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Jaspion
+rtmp://208.53.180.242/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Monk
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv09/mogulus-user-files/chtvtmonk/2011/05/11/0d308d55-59f5-43ca-a6d7-6110a87de716
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", The Vampire Diaries
+http://62.210.89.38:8081/vampire/vampire/chunklist_w1293974029.m3u8
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", The Walking Dead
+http://62.210.89.38:8081/twd/twd/chunklist_w20263144.m3u8
+
+#EXTINF:-1 group-title="Brasil Series 24hrs", Dr House
+http://62.210.88.244:8081/house/house/chunklist_w13245696.m3u8
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Brasil Desenhos 24hrs", [COLOR yellow]***Brasil Desenhos 24hrs***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1 group-title="Brasil Desenhos 24hrs", Bob Esponja
+rtmp://208.53.180.178/ctv playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bobesponja.html
+
+#EXTINF:-1 group-title="Brasil Desenhos 24hrs", Dragon Ball Z
+rtmp://208.53.180.178/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 group-title="Brasil Desenhos 24hrs", Os Simpsons
+rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Filmes", [COLOR yellow]***Filmes***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND [COLOR gray] Look-Tvs[/COLOR]
+rtmp://217.23.7.178/livepkgr playpath=band swfUrl=http://www.livestreamtv.biz/swfs/player.swf?IGOR_RANGEL  pageUrl=http://livestreamtv.biz/ live=true timeout=15
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND CE
+rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf?IGOR_RANGEL live=1 pageUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/ao-vivo/
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-PR.png" tvg-logo="http://goo.gl/Zdsu5k" group-title="TV Aberta",BAND PR
+http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/IGOR_RANGEL.m3u8
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND [COLOR gray] EsportesTv[/COLOR]
+rtmp://r.livecast.cc/rl/ playpath=bob19sd swfUrl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/stream7.php
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND SP [COLOR gray] Br Futebol[/COLOR]
+rtmp://live.pxstream.tv/redirect playpath=agua1  swfUrl=http://pxstream.tv/jwplayer.flash.swf?IGOR_RANGEL live=1 pageUrl=http://pxstream.tv/ token=#ed%h0#w@1
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor" tvg-logo="Band-SP.png" tvg-logo="http://goo.gl/SZ94lw" group-title="TV Aberta",BAND SP [COLOR gray] Master[/COLOR]
+rtmp://89.33.8.14/live?token=lB6v0Xcl_VA1ggpNrGi2UQExpired=1423496332 playpath=verec0ff44029508677d3c967  swfUrl=http://abcast.net/ab.swf?IGOR_RANGEL  pageUrl=http://abcast.net/embed4.php?file=bandeirantes&width=468&height=380
+
+#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD
+rtmp://94.242.228.41:1935/live/ playpath=ch18  swfUrl=http://www.tvonline.org/p.swf?IGOR_RANGEL  pageUrl=http://www.tvnanet.biz/boss/ch18-record.htm
+
+#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECOR RJ [COLOR gray] Look-Tvs[/COLOR]
+rtmp://76.73.108.33/edge playpath=record  swfUrl=http://www.livestreamtv.biz/swfs/player.swf?IGOR_RANGEL  pageUrl=http://livestreamtv.biz/ live=true timeout=15
+
+#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD PERNANBUCO
+rtmp://rtmp.cdn.upx.net.br:80/00161 playpath=myStream.sdp  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/record-pernambuco.php
+
+#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECORD RONDONIA
+rtmp://cast2.player.tv.br/8126 playpath=8126  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/record-rondonia.php
+
+#EXTINF:-1 tvg-id="Record.igor" tvg-logo="Record-SP.png" tvg-logo="http://goo.gl/YQ9Ftm" group-title="TV Aberta",RECOR [COLOR gray] Br Futebol[/COLOR]
+rtmp://live.pxstream.tv/redirect playpath=record2278  swfUrl=http://pxstream.tv/jwplayer.flash.swf?IGOR_RANGEL live=1 pageUrl=http://pxstream.tv/ token=#ed%h0#w@1
+
+#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV-HD.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV [COLOR gray]HQ[/COLOR]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+
+#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV-HD.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV[COLOR gray] Master[/COLOR]
+http://62.210.83.180:1935//liverepeat/master300/master300/IGOR_RANGEL.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="TV-Pampa.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV[COLOR gray] TV Pampa[/COLOR]
+rtmp://flash1.crossdigital.com.br/ponto4 playpath=tvpampa swfUrl=http://www.crosshost.com.br/playerflash/player.swf?ch=ttwrs pageUrl=http://www.pampa.com.br/ver-tv.php
+
+#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV [COLOR gray]TV Arapuan[/COLOR]
+rtmp://mediacp.ciclanohost.com.br:1935/8064 playpath=8064  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/redetv-arapuan.php
+
+#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta",REDE TV [COLOR gray] Look-Tvs[/COLOR]
+rtmp://76.73.108.34/online playpath=redetv  swfUrl=http://www.livestreamtv.biz/swfs/player.swf?IGOR_RANGEL  pageUrl=http://livestreamtv.biz/ live=true timeout=15
+
+#EXTINF:-1 tvg-id="TV Gazeta.igor" tvg-logo="Tv-Gazeta.png" tvg-logo="http://goo.gl/e1Zuu6" group-title="TV Aberta",TV GAZETA
+http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede Vida.igor" tvg-logo="Rede-Vida.png"tvg-logo="http://goo.gl/9NZpPD"  group-title="TV Aberta",REDE VIDA
+rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?IGOR_RANGEL
+
+#EXTINF:-1 tvg-id="Rede Vida.igor" tvg-logo="Rede-Vida.png"tvg-logo="http://goo.gl/9NZpPD"  group-title="TV Aberta",REDE VIDA [COLOR gray] EsportesTv[/COLOR]
+rtmp://r.livecast.cc/rl/ playpath=flash09 swfUrl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/stream5.php
+
+#EXTINF:-1 tvg-id="Globo Nacio" tvg-logo="AgroCanal.png" group-title="TV Aberta",AGRO MIX BR
+rtmp://69.162.116.218:1935/live playpath=novoagromix.sdp  swfUrl=http://www.agrobrasiltv.com.br/player.swf  pageUrl=http://www.agrobrasiltv.com.br/
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="TvDiarios.png" group-title="TV Aberta",TV DIÀRIO DE CAMPOS
+rtmp://streaming49.sitehosting.com.br:1935/cadripaes/ playpath=cadripaes  swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf  pageUrl=http://www.sitehosting.com.br/controle/player.php?nome=cadripaes&servidor=streaming49.sitehosting.com.br&width=640&height=360&autostart=true&iframe=iframe&playerimg=http%3A%2F%2Fsitehosting.com.br%2Fimagens%2Fhospedagemestreaming.png%3Fe%3D2%26u%3Dcadripaes&playermovie=&skin=&versao=PREMIUM
+
+#EXTINF:-1 tvg-id="TV Cultura.igor" tvg-logo="TV-Cultura.png" group-title="TV Aberta",TV CULTURA
+rtmp://200.136.27.12/livepkgr/ playpath=tvcultura4  swfUrl=http://www.tv-msn.net/p.swf  pageUrl=http://www.tvhd.com.br/painel-beta/Cultura.htm
+
+#EXTINF:-1 tvg-id="TV Brasil.igor" tvg-logo="TV-Brasil.png" group-title="TV Aberta",TV BRASIL
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1  swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf  pageUrl=http://livestreamtv.biz/ live=true timeout=15
+
+#EXTINF:-1 tvg-id="TV Escola.igor" tvg-logo="TV-Escola.png" group-title="TV Aberta",TV ESCOLA [COLOR orange]HD[/COLOR] 720p
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Canal Futura.igor" tvg-logo="Canal-Futura.png" group-title="TV Aberta",CANAL FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="TV Senado.igor" tvg-logo="TV-Senado.png" group-title="TV Aberta",TV SENADO
+mms://drix.senado.gov.br/tv4
+
+#EXTINF:-1 tvg-id="TV Senado.ttwrs" tvg-logo="IURD-TV.png" group-title="TV Aberta",IURD TV
+rtmp://cp116309.live.edgefcs.net/live/ playpath=RodrigoLive@46406  swfUrl=http://assets.gospelprime.com.br/tv/player.swf?IGOR_RANGEL  pageUrl=http://www.televan.com.br/tv-iurd.html
+
+#EXTINF:-1 tvg-id="TV Assembléia" tvg-logo="TV-Alese.png" group-title="TV Aberta",TV ASSEMBLÉIA
+rtsp://tval.alesc.sc.gov.br/tval
+
+#EXTINF:-1 tvg-id="Tv Diario" tvg-logo="TV_DIÁRIO_DO_SERTÃO" group-title="TV Aberta",TV DIÁRIO DO SERTÃO
+rtmp://wz3.dnip.com.br:1935/pdsertaotv/ playpath=pdsertaotv.sdp  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/tvdiario-do-sertao.php
+
+#EXTINF:-1 tvg-id="TVS.ttwrs" tvg-logo="TV-Seculo-21.png" group-title="TV Aberta",TV SÉCULO 21
+http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8
+
+#EXTINF:-1 tvg-id="TVCOM SC.ttwrs" tvg-logo="TV-COM.png" group-title="TV Aberta",TV COM (SC)
+rtmp://322747t.lp.azioncdn.net:1935/2747t playpath=a/mp4:access_options/rtmp-live/tvcom-sc.sdp swfUrl=http://videos.clicrbs.com.br/sc/tvcom/swf/ACTPlayer.swf pageUrl=http://videos.clicrbs.com.br/sc/tvcom/videonews/15681/
+
+#EXTINF:-1 tvg-id="TVCOM RS.ttwrs" tvg-logo="TV-COM.png" group-title="TV Aberta",TV COM (RS)
+rtmp://32747t.lp.azioncdn.net:1935/2747t playpath=2747t/a/mp4:access_options/rtmp-live/tvcom.sdp swfUrl=http://videos.clicrbs.com.br/rs/tvcom/swf/ACTPlayer.swf pageUrl=http://videos.clicrbs.com.br/rs/tvcom/videonews/1443/
+
+#EXTINF:-1 tvg-id="Canal do Boi.igor" tvg-logo="Canal_do_Bo.png.png" group-title="TV Aberta",CANAL DO BOI
+rtmp://srvvenus.canaldoboi.com/livecb playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1
+
+#EXTINF:-1 tvg-id="Conexão BR.ttwrs" tvg-logo="Conex%c6oBR.png" group-title="TV Aberta",CONEXÃO BR
+rtmp://srvvenus.canaldoboi.com/livecx playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1
+
+#EXTINF:-1 tvg-id="AgroCanal.ttwrs" tvg-logo="AgroCanal.png" group-title="TV Aberta",AGROCANAL
+rtmp://srvvenus.canaldoboi.com/liveac playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1
+
+#EXTINF:-1 tvg-id="NovoCanal.ttwrs" tvg-logo="NovoCanal.png" group-title="TV Aberta",NOVOCANAL
+rtmp://srvvenus.canaldoboi.com/livenc playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1
+
+#EXTINF:-1 tvg-id="Canal Rural.ttwrs" tvg-logo="Canalrural.png" group-title="TV Aberta",CANAL RURAL
+rtmp://332747t.lp.azioncdn.net:1935/2747t playpath=a/mp4:access_options/rtmp-live/canal_rural.sdp swfUrl=http://videos.ruralbr.com.br/canalrural/swf/ACTPlayer.swf?ch=ttwrs pageUrl=http://aovivo.ruralbr.com.br/canalrural/popup.html
+
+#EXTINF:-1 tvg-id="Rede Brasil.ttwrs" tvg-logo="Rede-Brasil.png" group-title="TV Aberta",REDE BRASIL
+rtmp://38.96.175.108/redebrasiltv playpath=redebrasiltv swfUrl=http://38.96.175.104/player/redebrasiltv/player.swf?ch=ttwrs pageUrl=http://38.96.175.104/player/redebrasiltv/
+
+#EXTINF:-1 tvg-id="Sesc TV.igor" tvg-logo="Sesc-TV.png" group-title="TV Aberta",SESC TV
+rtmp://srv6.zoeweb.tv:1935/zt2/ playpath=stream swfUrl=http://127.0.0.1:11109/etc/flash/player.swf pageUrl=http://127.0.0.1:11109/player.html
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="redeminas.png" group-title="TV Aberta",REDE MINAS
+mms://tv-coder.unifenas.br/aovivo
+
+#EXTINF:-1 tvg-id="" tvg-logo="TVCidadeJoinville.png" group-title="TV Aberta",TV CIDADE (Joinville)
+rtmp://rtmp.cdn.upx.net.br:80/0be3_live3/myStream.sdp
+
+#EXTINF:-1 tvg-id="" tvg-logo="CATVE.png" group-title="TV Aberta",CATVE (Cascavél)
+rtmp://stream.catve.com.br/live/livestream
+
+#EXTINF:-1 tvg-id="" tvg-logo="Tvpocos.png" group-title="TV Aberta",TV POÇOS (Minas)
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="TV Aberta",ÓTV (Curitiba)
+http://livebr.sambatech.com.br/hls-live/livepkgr/otv_0d70d1758596a48ba8f9f119080b9fb4/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Record.ttwrs" tvg-logo="Rede-Vida.png" group-title="TV Aberta",REDE GOSPEL
+rtmp://media1.igospel.org.br:1935/live playpath=redegospel  swfUrl=http://www.redegospel.tv.br/site/library/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.tvonlinegratis.tv/canais/rede-gospel.php
+
+
