@@ -346,8 +346,6 @@ rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-file
 #EXTINF:-1, Kenan e Kel
 rtmp://208.53.180.178/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
 
-
-
 #EXTINF:-1, Chuck
 rtmp://208.53.180.130/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
 
@@ -369,8 +367,18 @@ rtmp://208.53.180.178/ctv playpath=glee swfUrl=http://www.carolineoliveira.com.b
 #EXTINF:-1, Jaspion
 rtmp://208.53.180.242/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
 
-#EXTINF:-1, Monk
+##EXTINF:-1, Monk
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv09/mogulus-user-files/chtvtmonk/2011/05/11/0d308d55-59f5-43ca-a6d7-6110a87de716
+
+#EXTINF:-1, Familia Dinossauros
+rtmp://208.53.180.218/ctv playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/dinossauros.html
+
+#EXTINF:-1, Familia Dinossauros (Wonder)
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtvtfamiliadinosauros/2012/05/12/052e4e4b-977f-4382-9ac8-31613b0074c4 swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://tvonlinegratis.tv/canais/familia-dinossauros.php
+
+
+
+
 
 
 
@@ -388,14 +396,115 @@ http://0.0.0.0:0000
 #EXTINF:-1, Dragon Ball Z
 rtmp://208.53.180.178/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
 
+#EXTINF:-1, Dragon Ball Z
+rtmp://208.53.180.218/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1, Naruto Shipudem
+rtmp://208.53.180.130/ctv playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
+
 #EXTINF:-1, Os Simpsons
 rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1, Simpsons
+rtmp://208.53.180.218/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1, FUTURAMA
+rtmp://208.53.164.194/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
 
 #EXTINF:-1, Bob Esponja
 rtmp://208.53.180.178/ctv playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bobesponja.html
 
+#EXTINF:-1, Bob Esponja
+rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/bobesponja.html
+
 #EXTINF:-1, Os Cavaleiros do Zodiaco
 rtmp://208.53.180.130/ctv playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/cdz.html
+
+#EXTINF:-1, Os Cavaleiros do Zodiaco
+rtmp://208.53.180.130/ctv playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/cdz.html
+
+#EXTINF:-1, Caverna do Dragão
+rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/caverna.html
+
+#EXTINF:-1, Pokemon
+rtmp://85.12.5.8/aovivo playpath=pokemonhd swfUrl=http://www.tvonlinegratis.tv/protegido.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/pokemon.php?pagina
+
+#EXTINF:-1, Digimon
+rtmp://212.129.30.215/digimon playpath=digimon swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf&itvjonas pageUrl=http://livestreamcast.org/embed.php?c=digimon&vw=100%&vh=100%.html
+
+#EXTINF:-1, YUGIOH
+rtmp://208.53.180.178/ctv playpath=yugioh  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?jonasiptv pageUrl=http://carolineoliveira.com.br/tvamigos/yugioh.html
+
+#EXTINF:-1, XMEN
+rtmp://208.53.180.242/ctv playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
+
+#EXTINF:-1, Batman
+rtmp://208.53.164.194/ctv playpath=batman swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/batman.html
+
+#EXTINF:-1, Liga da Justiça
+rtmp://85.12.5.8/aovivo/ playpath=liga2015 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/liga-da-justica.php
+
+#EXTINF:-1, Jackie chan
+rtmp://208.53.180.242/ctv playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/jackie.html
+
+#EXTINF:-1, Ben 10
+rtmp://208.53.180.178/ctv playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html
+
+#EXTINF:-1, Pica Pau
+rtmp://208.53.164.194/ctv playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1, Tom e Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+#EXTINF:-1, Scobby doo
+rtmp://208.53.180.178/ctv playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/scooby.html
+
+#EXTINF:-1, South Park
+rtmp://208.53.180.130/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+
+#EXTINF:-1, Doug
+rtmp://208.53.180.130/ctv playpath=doug swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/doug.html
+
+#EXTINF:-1, Fantástico mundo de Bobby
+rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?iptvjonas live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
+
+#EXTINF:-1, Galinha Pintadinha
+rtmp://208.53.164.194/ctv playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/galinhapintadinha.html
+
+#EXTINF:-1, O maskara
+rtmp://208.53.180.130/ctv playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
+
+#EXTINF:-1, Manda chuva
+rtmp://212.129.30.215/turmadomandachuva/ playpath=turmadomandachuva swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf&itvjonas pageUrl=http://livestreamcast.org/embed.php?c=turmadomandachuva&vw=468&vh=360
+
+#EXTINF:-1, Os Jetsons (Wonder)
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chosjetsons/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.tvonlinebtv.net/streans/jetsons.html
+
+#EXTINF:-1, Os FLINTSTONES
+rtmp://208.53.180.130/ctv playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
+
+#EXTINF:-1, Os Padrinhos Magicos
+rtmp://85.12.5.8/aovivo playpath=padrinhos swfUrl=http://www.tvonlinegratis.tv/protegido.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/padrinhos-magicos.php
+
+#EXTINF:-1, Papa-leguas
+rtmp://212.129.30.215/papaleguas/papaleguas playpath=papaleguas swfUrl=http://www.vertvgratis.eu/player.swf&iptvglobal pageUrl=http://www.vertvgratis.eu/parceiros/papaleguas.html
+
+#EXTINF:-1, Peppa Pig [COLOR red][I][B][I][B] Off [/B][/I][/COLOR]
+rtmp://195.154.222.28/peppapig/peppapig playpath=peppapig swfUrl=http://www.tvonlinegratis.tv/player.swf?iptvglobal live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/peppapig.php
+
+#EXTINF:-1, Thunder Cats [classico]
+rtmp://195.154.222.28/thundernovo/thundernovo playpath=thundernovo swfUrl=http://www.tvonlinegratis.tv/player.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/novos-thundercats.php
+
+#EXTINF:-1, Thunder Cats
+rtmp://208.53.164.194/ctv playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1, Thunder Cats (Nova Geração)
+rtmp://195.154.222.28/thundercats/thundercats playpath=thundercats swfUrl=http://www.tvonlinegratis.tv/player.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/thundercats.php
+
+#EXTINF:-1, Uma familia da pesada
+rtmp://208.53.164.194/ctv playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+
 
 
 
