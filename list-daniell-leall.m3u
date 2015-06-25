@@ -7,7 +7,7 @@
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *UPDATE 23/06/2015* \o/
+#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *UPDATE 25/06/2015* \o/
 http://0.0.0.0:0000
 
 #EXTINF:-1 group-title="Informação/ Información/ Information", by DANIELL LEALL
@@ -425,8 +425,8 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/anten
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, Chavo
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chv2chavotv/2009/04/19/7dad1bf8-c2b0-476f-a8c1-3070af5f9da4
+#EXTINF:-1, El Chavo
+rtmp://192.240.125.26:443/live?Dt9tncrN8JfAoDvfGNnAOCVrLKetFOtH playpath=live_mega_chavo swfUrl=http://vaughnlive.tv/4302642219/swf/VaughnSoftPlayer.swf
 
 
 
@@ -442,13 +442,14 @@ http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
 #EXTINF:-1, Dragon Ball Z
-rtmp://204.45.157.234/app playpath=16974?MTQzNDk0NDEzMTtlZGNlZDk1ODY4NWEyOTc3MDk5MDlhYWU1Mjg4Y2UzMQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59324e4459794e3245324e6a63794e6a55324e513d3d/d902c63a97aa
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf
 
 #EXTINF:-1, Los Simpsons
-rtmp://50.7.78.138:443/live?yIj3JwKu73liW2yugGq9h7d7gP8akegY playpath=live_mega_simpson swfUrl=http://vaughnlive.tv/4302642219/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_simpson?viewers=true&watermark=left&autoplay=true
+rtmp://204.45.157.98/app playpath=16051?MTQzNTEzNDMxNDs2NjNiNzViMTk1ODg0NzlmMmZhMTlkZDFiMjcwNzRkNg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a41324e545a6a4e6a6b324d7a63314e6d4d324d54637a4e6a67324e413d3d/920acecd71ef
 
 #EXTINF:-1, Caballeros del Zodiaco
-rtmp://198.255.0.18:443/live?HIGqiEkpuCmluuaWxEQrh5n33OlNWuyM playpath=live_mega_bot swfUrl=http://vaughnlive.tv/4302642219/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_bot?viewers=true&watermark=left&autoplay=true
+rtmp://50.7.78.138:443/live?S6TI6Ny9z2KBo4Lo8WDO8c9jhJ6JUWXZ playpath=live_mega_bot
+
 
 
 
@@ -670,691 +671,691 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
-#EXTINF:-1 group-title="[COLOR green]\/ \/ \/[/COLOR] Series [COLOR green]\/ \/ \/[/COLOR]", [COLOR yellow]***Series***[/COLOR]
+#EXTINF:-1 group-title="Series - Abaixo/ Abajo/ Below", [COLOR yellow]***Series***[/COLOR]
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
-#EXTINF:-1 group-title="Smallville Dublado", [COLOR yellow]***Smallville Dublado***[/COLOR]
+#EXTINF:-1 group-title="Smallville - Audio(br)", [COLOR yellow]***Smallville Dublado***[/COLOR]
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
 #EXTINF:-1, [COLOR green]Serie Finalizada[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Finale
+#EXTINF:-1, e21 Finale
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Prophecy
+#EXTINF:-1, e20 Prophecy
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Dominion
+#EXTINF:-1, e19 Dominion
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Booster
+#EXTINF:-1, e18 Booster
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Kent
+#EXTINF:-1, e17 Kent
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Scion
+#EXTINF:-1, e16 Scion
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Fortune
+#EXTINF:-1, e15 Fortune
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Masquerade
+#EXTINF:-1, e14 Masquerade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Beacon
+#EXTINF:-1, e13 Beacon
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Collateral
+#EXTINF:-1, e12 Collateral
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Icarus
+#EXTINF:-1, e11 Icarus
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Luthor
+#EXTINF:-1, e10 Luthor
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Patriot
+#EXTINF:-1, e09 Patriot
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Abandoned
+#EXTINF:-1, e08 Abandoned
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Ambush
+#EXTINF:-1, e07 Ambush
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Harvest
+#EXTINF:-1, e06 Harvest
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Isis
+#EXTINF:-1, e05 Isis
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Homecoming
+#EXTINF:-1, e04 Homecoming
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Supergirl
+#EXTINF:-1, e03 Supergirl
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Shield
+#EXTINF:-1, e02 Shield
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Lazarus
+#EXTINF:-1, e01 Lazarus
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]10ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Salvation
+#EXTINF:-1, e21 Salvation
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Hostage
+#EXTINF:-1, e20 Hostage
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Sacrifice
+#EXTINF:-1, e19 Sacrifice
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Charade
+#EXTINF:-1, e18 Charade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Upgrade
+#EXTINF:-1, e17 Upgrade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Checkmate
+#EXTINF:-1, e16 Checkmate
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Escape
+#EXTINF:-1, e15 Escape
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Conspiracy
+#EXTINF:-1, e14 Conspiracy
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Persuasion
+#EXTINF:-1, e13 Persuasion
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Warrior
+#EXTINF:-1, e12 Warrior
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Absolute Justice
+#EXTINF:-1, e11 Absolute Justice
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Disciple
+#EXTINF:-1, e10 Disciple
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Pandora
+#EXTINF:-1, e09 Pandora
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Idol
+#EXTINF:-1, e08 Idol
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Kandor
+#EXTINF:-1, e07 Kandor
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Crossfire
+#EXTINF:-1, e06 Crossfire
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Roulette
+#EXTINF:-1, e05 Roulette
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Echo
+#EXTINF:-1, e04 Echo
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Rabid
+#EXTINF:-1, e03 Rabid
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Metallo
+#EXTINF:-1, e02 Metallo
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Savior
+#EXTINF:-1, e01 Savior
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]9ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Doomsday
+#EXTINF:-1, e22 Doomsday
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-022.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Injustice
+#EXTINF:-1, e21 Injustice
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Beast
+#EXTINF:-1, e20 Beast
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Stiletto
+#EXTINF:-1, e19 Stiletto
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Eternal
+#EXTINF:-1, e18 Eternal
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Hex
+#EXTINF:-1, e17 Hex
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Turbulence
+#EXTINF:-1, e16 Turbulence
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Infamous
+#EXTINF:-1, e15 Infamous
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Requiem
+#EXTINF:-1, e14 Requiem
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Power
+#EXTINF:-1, e13 Power
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Bulletproof
+#EXTINF:-1, e12 Bulletproof
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Legion
+#EXTINF:-1, e11 Legion
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Bride
+#EXTINF:-1, e10 Bride
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Abyss
+#EXTINF:-1, e09 Abyss
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Bloodline
+#EXTINF:-1, e08 Bloodline
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Identity
+#EXTINF:-1, e07 Identity
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Prey
+#EXTINF:-1, e06 Prey
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Committed
+#EXTINF:-1, e05 Committed
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Instinct
+#EXTINF:-1, e04 Instinct
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Toxic
+#EXTINF:-1, e03 Toxic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Plastique
+#EXTINF:-1, e02 Plastique
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Odyssey
+#EXTINF:-1, e01 Odyssey
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]8ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Arctic
+#EXTINF:-1, e20 Arctic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Quest
+#EXTINF:-1, e19 Quest
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Apocalypse
+#EXTINF:-1, e18 Apocalypse
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Sleeper
+#EXTINF:-1, e17 Sleeper
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Descent
+#EXTINF:-1, e16 Descent
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Veritas
+#EXTINF:-1, e15 Veritas
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Traveler
+#EXTINF:-1, e14 Traveler
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Hero
+#EXTINF:-1, e13 Hero
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Fracture
+#EXTINF:-1, e12 Fracture
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Siren
+#EXTINF:-1, e11 Siren
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Persona
+#EXTINF:-1, e10 Persona
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Gemini
+#EXTINF:-1, e09 Gemini
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Blue
+#EXTINF:-1, e08 Blue
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Wrath
+#EXTINF:-1, e07 Wrath
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Lara
+#EXTINF:-1, e06 Lara
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Action
+#EXTINF:-1, e05 Action
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Cure
+#EXTINF:-1, e04 Cure
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Fierce
+#EXTINF:-1, e03 Fierce
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Kara
+#EXTINF:-1, e02 Kara
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Bizarro
+#EXTINF:-1, e01 Bizarro
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]7ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Phantom
+#EXTINF:-1, e22 Phantom
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-022.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Prototype
+#EXTINF:-1, e21 Prototype
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Noir
+#EXTINF:-1, e20 Noir
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Nemesis
+#EXTINF:-1, e19 Nemesis
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Progeny
+#EXTINF:-1, e18 Progeny
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Combat
+#EXTINF:-1, e17 Combat
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Promise
+#EXTINF:-1, e16 Promise
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Freak
+#EXTINF:-1, e15 Freak
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Trespass
+#EXTINF:-1, e14 Trespass
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Crimson
+#EXTINF:-1, e13 Crimson
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Labyrinth
+#EXTINF:-1, e12 Labyrinth
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Justice
+#EXTINF:-1, e11 Justice
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Hydro
+#EXTINF:-1, e10 Hydro
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Subterranean
+#EXTINF:-1, e09 Subterranean
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Static
+#EXTINF:-1, e08 Static
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Rage
+#EXTINF:-1, e07 Rage
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Fallout
+#EXTINF:-1, e06 Fallout
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Reunion
+#EXTINF:-1, e05 Reunion
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Arrow
+#EXTINF:-1, e04 Arrow
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Wither
+#EXTINF:-1, e03 Wither
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Sneeze
+#EXTINF:-1, e02 Sneeze
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Zod
+#EXTINF:-1, e01 Zod
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]6ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Vessel
+#EXTINF:-1, e22 Vessel
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-022.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Oracle
+#EXTINF:-1, e21 Oracle
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Fade
+#EXTINF:-1, e20 Fade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Mercy
+#EXTINF:-1, e19 Mercy
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Fragile
+#EXTINF:-1, e18 Fragile
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Void
+#EXTINF:-1, e17 Void
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Hypnotic
+#EXTINF:-1, e16 Hypnotic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Cyborg
+#EXTINF:-1, e15 Cyborg
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Tomb
+#EXTINF:-1, e14 Tomb
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Vengeance
+#EXTINF:-1, e13 Vengeance
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Reckoning
+#EXTINF:-1, e12 Reckoning
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Lockdown
+#EXTINF:-1, e11 Lockdown
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Fanatic
+#EXTINF:-1, e10 Fanatic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Lexmas
+#EXTINF:-1, e09 Lexmas
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Solitude
+#EXTINF:-1, e08 Solitude
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Splinter
+#EXTINF:-1, e07 Splinter
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Exposed
+#EXTINF:-1, e06 Exposed
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Thirst
+#EXTINF:-1, e05 Thirst
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Aqua
+#EXTINF:-1, e04 Aqua
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Hidden
+#EXTINF:-1, e03 Hidden
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Mortal
+#EXTINF:-1, e02 Mortal
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Arrival
+#EXTINF:-1, e01 Arrival
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]5ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Commencement
+#EXTINF:-1, e22 Commencement
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-022.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Forever
+#EXTINF:-1, e21 Forever
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Ageless
+#EXTINF:-1, e20 Ageless
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Blank
+#EXTINF:-1, e19 Blank
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Spirit
+#EXTINF:-1, e18 Spirit
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Onyx
+#EXTINF:-1, e17 Onyx
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Lucy
+#EXTINF:-1, e16 Lucy
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Sacred
+#EXTINF:-1, e15 Sacred
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Krypto
+#EXTINF:-1, e14 Krypto
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Recruit
+#EXTINF:-1, e13 Recruit
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Pariah
+#EXTINF:-1, e12 Pariah
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Unsafe
+#EXTINF:-1, e11 Unsafe
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Scare
+#EXTINF:-1, e10 Scare
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Bound
+#EXTINF:-1, e09 Bound
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Spell
+#EXTINF:-1, e08 Spell
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Jinx
+#EXTINF:-1, e07 Jinx
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Transference
+#EXTINF:-1, e06 Transference
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Run
+#EXTINF:-1, e05 Run
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Devoted
+#EXTINF:-1, e04 Devoted
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Facade
+#EXTINF:-1, e03 Facade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Gone
+#EXTINF:-1, e02 Gone
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Crusade
+#EXTINF:-1, e01 Crusade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]4ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
-	
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Covenant
+
+#EXTINF:-1, e22 Covenant
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-022.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Forsaken
+#EXTINF:-1, e21 Forsaken
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Talisman
+#EXTINF:-1, e20 Talisman
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-020.mp4?ONSERIES
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Memoria
+	
+#EXTINF:-1, e19 Memoria
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Truth
+#EXTINF:-1, e18 Truth
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Legacy
+#EXTINF:-1, e17 Legacy
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Crisis
+#EXTINF:-1, e16 Crisis
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Ressurection
+#EXTINF:-1, e15 Ressurection
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Obsession
+#EXTINF:-1, e14 Obsession
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Velocity
+#EXTINF:-1, e13 Velocity
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Hereafter
+#EXTINF:-1, e12 Hereafter
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Delete
+#EXTINF:-1, e11 Delete
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Whisper
+#EXTINF:-1, e10 Whisper
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Asylum
+#EXTINF:-1, e09 Asylum
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Shattered
+#EXTINF:-1, e08 Shattered
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Magnetic
+#EXTINF:-1, e07 Magnetic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Relic
+#EXTINF:-1, e06 Relic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Perry
+#EXTINF:-1, e05 Perry
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Slumber
+#EXTINF:-1, e04 Slumber
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Extinction
+#EXTINF:-1, e03 Extinction
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Phoenix
+#EXTINF:-1, e02 Phoenix
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Exile
+#EXTINF:-1, e01 Exile
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-001.mp4?ONSERIES	
 	
 #EXTINF:-1, [COLOR green]3ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Exodus
+#EXTINF:-1, e23 Exodus
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-023.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Calling
+#EXTINF:-1, e22 Calling
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-022.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Accelerate
+#EXTINF:-1, e21 Accelerate
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Witness
+#EXTINF:-1, e20 Witness
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Precipice
+#EXTINF:-1, e19 Precipice
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Visitor
+#EXTINF:-1, e18 Visitor
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Rosseta
+#EXTINF:-1, e17 Rosseta
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Fever
+#EXTINF:-1, e16 Fever
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Prodigal
+#EXTINF:-1, e15 Prodigal
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Rush
+#EXTINF:-1, e14 Rush
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Suspect
+#EXTINF:-1, e13 Suspect
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Insurgence
+#EXTINF:-1, e12 Insurgence
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Visage
+#EXTINF:-1, e11 Visage
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Skinwalkers
+#EXTINF:-1, e10 Skinwalkers
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Dichotic
+#EXTINF:-1, e09 Dichotic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Ryan
+#EXTINF:-1, e08 Ryan
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Lineage
+#EXTINF:-1, e07 Lineage
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Redux
+#EXTINF:-1, e06 Redux
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Nocturne
+#EXTINF:-1, e05 Nocturne
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 Red
+#EXTINF:-1, e04 Red
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Duplicity
+#EXTINF:-1, e03 Duplicity
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Heat
+#EXTINF:-1, e02 Heat
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Vortex
+#EXTINF:-1, e01 Vortex
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]2ª Temporada Dublado[/COLOR]
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Tempest
+#EXTINF:-1, e21 Tempest
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-021.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Obscura
+#EXTINF:-1, e20 Obscura
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-020.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e19 Crush
+#EXTINF:-1, e19 Crush
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-019.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e18 Drone
+#EXTINF:-1, e18 Drone
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-018.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e17 Reaper
+#EXTINF:-1, e17 Reaper
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-017.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e16 Stray
+#EXTINF:-1, e16 Stray
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-016.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e15 Nicodemus
+#EXTINF:-1, e15 Nicodemus
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-015.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e14 Zero
+#EXTINF:-1, e14 Zero
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-014.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e13 Kinetic
+#EXTINF:-1, e13 Kinetic
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-013.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e12 Leech
+#EXTINF:-1, e12 Leech
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-012.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e11 Hug
+#EXTINF:-1, e11 Hug
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-011.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e10 Shimmer
+#EXTINF:-1, e10 Shimmer
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-010.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e09 Rogue
+#EXTINF:-1, e09 Rogue
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-009.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e08 Jitters
+#EXTINF:-1, e08 Jitters
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-008.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e07 Craving
+#EXTINF:-1, e07 Craving
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-007.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e06 Hourglass
+#EXTINF:-1, e06 Hourglass
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-006.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e05 Cool
+#EXTINF:-1, e05 Cool
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-005.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e04 X-Ray
+#EXTINF:-1, e04 X-Ray
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-004.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e03 Hothead
+#EXTINF:-1, e03 Hothead
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-003.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e02 Metamorphosis
+#EXTINF:-1, e02 Metamorphosis
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-002.mp4?ONSERIES
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UWXkxfD0ZqE/VWTI4jU7LEI/AAAAAAAAZOY/wzjmcPEIztg/s334-no/Smallville.png" group-title="Smallville Dublado",e01 Pilot
+#EXTINF:-1, e01 Pilot
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-001.mp4?ONSERIES
 
 #EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
@@ -1362,3 +1363,689 @@ http://0.0.0.0:0000
 
 
 #-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Supernatural - Audio(br)", [COLOR yellow]***Sobrenatural Dublado***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, e22 Devil's Trap
+http://s001.videopw.com/e/b6ca8bd3c1e88f00befe76a602a1e73e.flv?st=nEOULmRG1WVqijb5X8GA1g
+
+#EXTINF:-1, e21 Salvation
+http://s001.videopw.com/e/57e8bbbfcfb9669638bb002d37ed11df.flv?st=zk7ZrAe4M_lQFBFlHB7Jmg
+
+#EXTINF:-1, e20 Dead Man's Blood
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-020.mp4?ONSERIES
+
+#EXTINF:-1, e19 Provenance
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-019.mp4?ONSERIES
+
+#EXTINF:-1, e18 Something Wicked
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-018.mp4?ONSERIES
+
+#EXTINF:-1, e17 Hell House
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e16 Shadow
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 The Benders
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 Nightmare
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 Route 666
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 Faith
+http://s001.videopw.com/e/63226204a6fad2485364251ceee906e1.flv?st=yKlmoZEeQq723aQuEqSOTg
+
+#EXTINF:-1, e11 Scarecrow
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 Asylum
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 Home
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 Bugs
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 Hook Man
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 Skin
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 Bloody Mary
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 Phantom Traveler
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 Dead In The Water 
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 Wendigo
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 Piloto
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="The Big Bang Theory - Audio(br)", [COLOR yellow]***A Teoria do Big Bang Dublado***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, [COLOR green]Temporada Terminada[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e24 The Countdown Reflection
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-024.mp4?ONSERIES
+
+#EXTINF:-1, e23 The Launch Acceleration
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-023.mp4?ONSERIES
+
+#EXTINF:-1, e22 The Stag Convergence
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-022.mp4?ONSERIES
+
+#EXTINF:-1, e21 The Hawking Excitation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-021.mp4?ONSERIES
+
+#EXTINF:-1, e20 The Transporter Malfunction
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-020.mp4?ONSERIES
+
+#EXTINF:-1, e19 The Weekend Vortex
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-019.mp4?ONSERIES
+
+#EXTINF:-1, e18 The Werewolf Transformation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-018.mp4?ONSERIES
+
+#EXTINF:-1, e17 The Rothman Disintegration
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e16 The Vacation Solution
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 The Friendship Contraction
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 The Beta Test Initiation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 The Recombination Hypothesis
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 The Shiny Trinket Maneuver
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 The Speckerman Recurrence
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 The Flaming Spittoon Acquisition
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 The Ornithophobia Diffusion
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 The Isolation Permutation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 The Good Guy Fluctuation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 The Rhinitis Revelation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 The Russian Rocket Reaction
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 The Wiggly Finger Catalyst
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 The Pullet Groin Extrapolation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 The Infestation Hypothesis
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 The Skank Reflex Analysis
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]5ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e24 The Roommate Transmogrification
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-024.mp4?ONSERIES
+
+#EXTINF:-1, e23 The Engagement Reaction
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-023.mp4?ONSERIES
+
+#EXTINF:-1, e22 The Wildebeest Inplementation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-022.mp4?ONSERIES
+
+#EXTINF:-1, e21 The Agreement Dissection
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-021.mp4?ONSERIES
+
+#EXTINF:-1, e20 The Herb Garden Germination
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-020.mp4?ONSERIES
+
+#EXTINF:-1, e19 The Zarnecki Incursion
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-019.mp4?ONSERIES
+
+#EXTINF:-1, e18 The Prestidigitation Approximation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-018.mp4?ONSERIES
+
+#EXTINF:-1, e17 The Toast Derivation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e16 The Cohabitation Formula
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 The Benefactor Factor
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 The Thespian Catalyst
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 The Love Car Displacement
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 The Bus Pants Utilization
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 The Justice League Recombination
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 The Alien Parasite Hypothesis
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 The Boyfriend Complexity
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 The 21-Second Excitation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 The Apology Insufficiency
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 The Irish Pub Formulation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 The Desperation Emanation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 The Hot Troll Deviation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 The Zazzy Substution
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 The Cruciferous Vegetable Amplification
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 The Robotic Manipulation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]4ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000	
+	
+#EXTINF:-1, e23 The Lunar Excitation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-023.mp4?ONSERIES
+
+#EXTINF:-1, e22 The Staircase Implementation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-022.mp4?ONSERIES
+
+#EXTINF:-1, e21 The Plimpton Stimulation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-019.mp4?ONSERIES
+
+#EXTINF:-1, e20 The Spaghetti Catalyst
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-020.mp4?ONSERIES
+
+#EXTINF:-1, e19 The Wheaton Recurrence
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e18 The Pants Alternative
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-018.mp4?ONSERIES
+
+#EXTINF:-1, e17 The Precious Fragmentation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e16 The Excelsior Acquisition
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 The Large Hadron Collision
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 The Einstein Approximation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 The Bozeman Reaction
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 The Psychic Vortex
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 The Maternal Congruence
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 The Gorilla Experiment
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 The Vengeance Formulation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 The Adhesive Duck Deficiency
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 The Guitarist Amplification
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 The Cornhusker Vortex
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 The Creepy Candy Coating Corollary
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 The Pirate Solution
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 The Gothowitz Deviation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 The Jiminy Conjecture
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 The Electric Can Opener Fluctuation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]3ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+	
+#EXTINF:-1, e23 The Monopolar Expedition
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-023.mp4?ONSERIES
+
+#EXTINF:-1, e22 The Classified Material Turbulence
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-022.mp4?ONSERIES
+
+#EXTINF:-1, e21 The Vegas Renormalization
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-021.mp4?ONSERIES
+
+#EXTINF:-1, e20 The Hofstadter Isotope
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-020.mp4?ONSERIES
+
+#EXTINF:-1, e19 The Dead Hooker Juxtaposition
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-019.mp4?ONSERIES
+
+#EXTINF:-1, e18 The Work Song Nanocluster
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-018.mp4?ONSERIES
+
+#EXTINF:-1, e17 The Terminator Decoupling
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e16 The Cushion Saturation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 The Maternal Capacitance
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 The Financial Permeability
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 The Friendship Algorithm
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 The Killer Robot Instability
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 The Bath Item Gift Hypothesis
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 The Vartabedian Conudrum
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 The White Aspargus Triangulation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 The Lizard-Spock Expansion
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 The Panty Piñata Polarization
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 The Cooper-Nowitzki Theorem
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 The Euclid Alternative
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 The Griffin Equivalency
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 The Barbarian Sublimation
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 The Codpiece Topology
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 The Bad Fish Paradigm
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]2ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e17 The Tangerine Factor
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-017.mp4?ONSERIES
+
+#EXTINF:-1, e16 The Peanut Reaction
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 The Shiksa Indeterminacy
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 The Nerdmabelia Scattering
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 The Batjar Conjecture
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 The Jerusalem Diary
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 The Pancake Batter Anomaly
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 The Loobenfeld Decay
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 The Cooper-Hofstadter Polarization
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 The Grasshopper Experiment
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 The Dumpling Paradox
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 The Middle Earth Paradigm
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 The Hamburger Postulate
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 The Luminous Fish Effect
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 The Fuzzyboots Corollary
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 The Big Bran Hypothesis
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 Pilot
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="The Walking Dead - Audio(br)", [COLOR yellow]***The Walking Dead - Dublado***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, [COLOR green]Temporada Terminada[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e16 Conquer
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 Try
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 Spend
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 Forget
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 Remember
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 The Distance
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 Them
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 What Happened and What’s Going On
+http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 Coda
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 Crossed
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 Consumed
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 Self Help
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 Slabtown
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 Four Walls and a Roof
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 Strangers
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 No Sanctuary
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]5ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e16 A
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 Us
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 The Grove
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 Alone
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 Still
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 Claimed
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 Inmates
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 After
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 Too Far Gone
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 Dead Weight
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 Live Bait
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 Internment
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 Indifference
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 Isolation
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 Infected
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 30 Days Without an Accident
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]4ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e16 Welcome to the Tombs
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-016.mp4?ONSERIES
+
+#EXTINF:-1, e15 This Sorrowful Life
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-015.mp4?ONSERIES
+
+#EXTINF:-1, e14 Prey
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-014.mp4?ONSERIES
+
+#EXTINF:-1, e13 Arrow on the Doorpost
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 Clear
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 I Ain’t a Judas
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 Home
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 The Suicide King
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 Made to Suffer
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 When the Dead Come Knocking
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 Hounded
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 Say the Word
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 Killer Within
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 Walk With Me
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 Sick
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 Seed
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]3ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e13 Beside the Dying Fire
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-013.mp4?ONSERIES
+
+#EXTINF:-1, e12 Better Angels
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-012.mp4?ONSERIES
+
+#EXTINF:-1, e11 Judge Jury Executioner
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-011.mp4?ONSERIES
+
+#EXTINF:-1, e10 18 Miles Out
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-010.mp4?ONSERIES
+
+#EXTINF:-1, e09 Triggerfinger
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-009.mp4?ONSERIES
+
+#EXTINF:-1, e08 Nebraska
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-008.mp4?ONSERIES
+
+#EXTINF:-1, e07 Pretty Much Dead Already
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-007.mp4?ONSERIES
+
+#EXTINF:-1, e06 Secrets
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-006.mp4?ONSERIES
+
+#EXTINF:-1, e05 Chupacabra
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-005.mp4?ONSERIES
+
+#EXTINF:-1, e04 Cherokee Rose
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-004.mp4?ONSERIES
+
+#EXTINF:-1, e03 Save the Last One
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-003.mp4?ONSERIES
+
+#EXTINF:-1, e02 Bloodletting
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-002.mp4?ONSERIES
+
+#EXTINF:-1, e01 What Lies Ahead
+http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR green]2ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, e06 TS09
+https://r4---sn-p5qlsu7e.googlevideo.com/videoplayback?requiressl=yes&id=e71fdf49c63338d8&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284744&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5C869EB477E6E4425E5C003FFD31CD8820F737AD.167B4BC2439C997230F83A9411127C55DD1E8322&key=cms1&pl=21&redirect_counter=1&req_id=9e0abb617514a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7e&ms=tsu&mt=1432692739&mv=m
+
+#EXTINF:-1, e05 Wildfire
+https://r3---sn-p5qlsu7z.googlevideo.com/videoplayback?requiressl=yes&id=07ea8d84019cfda0&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284739&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=4E1555C32F1F95CAE3DB968C67374855709EBFAB.20D6447E06B69992C89876A29A21E48034886203&key=cms1&pl=21&redirect_counter=1&req_id=6ed91d5b7212a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1432692678&mv=m
+
+#EXTINF:-1, e04 Vatos
+https://r6---sn-p5qlsu7s.googlevideo.com/videoplayback?requiressl=yes&id=622b9fcf48ccd718&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284733&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=69D750BD15A1AFBDC1611EA411E617696BA8BA29.32984768B9EEB0D6A367D7CA00800F7243E31BFB&key=cms1&pl=21&redirect_counter=1&req_id=2df3302fd7f4a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7s&ms=tsu&mt=1432692678&mv=m
+
+#EXTINF:-1, e03 Tell It To The Frogs
+https://r3---sn-p5qlsu7r.googlevideo.com/videoplayback?requiressl=yes&id=040d9ad622f2c133&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284727&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=4EF3A2B738476EA23E2F95D395AC3AC7AC7A46ED.37D1B9710412B863D19FD149364AE96E94A6298A&key=cms1&pl=21&redirect_counter=1&req_id=6d4af322daeba3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7r&ms=tsu&mt=1432692678&mv=m
+
+#EXTINF:-1, e02 Guts
+https://r6---sn-p5qlsu7d.googlevideo.com/videoplayback?requiressl=yes&id=d3812f818204e3e6&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284720&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5D4342BD496DEF21A184C567C704157598E0403B.362AF770E9A211FC2A27BCF4ACCD65AB806C2FBE&key=cms1&pl=21&redirect_counter=1&req_id=d5dd3c971f28a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7d&ms=tsu&mt=1432692678&mv=m
+
+#EXTINF:-1, e01 Days Gone Bye
+https://r4---sn-bg07dnls.googlevideo.com/videoplayback?requiressl=yes&id=39d8abd9421d4c8b&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284708&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=0A80ED9B251782E149AC8C46905AF099AF507FF3.0E2FC51125977B6245C3F1B5BD8B6A713ED75273&key=cms1&pl=21&redirect_counter=1&req_id=dd18b59bf318a3ee&cms_redirect=yes&mm=30&mn=sn-bg07dnls&ms=nxu&mt=1432692697&mv=m
+
+#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+http://0.0.0.0:0000
+
+
+
