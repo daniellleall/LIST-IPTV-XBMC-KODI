@@ -220,8 +220,6 @@ rtmp://srvvenus.canaldoboi.com/livenc playpath=livestream
 #EXTINF:-1, SESC TV
 rtmp://srv6.zoeweb.tv:1935/zt2/ playpath=stream
 
-
-
 #EXTINF:-1, REDE GOSPEL
 rtmp://media1.igospel.org.br:1935/live playpath=redegospel
 
@@ -239,20 +237,79 @@ rtmp://media1.igospel.org.br:1935/live playpath=redegospel
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, History
-rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/history.html
+#EXTINF‬:-1,AXN
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.Tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
 
-#EXTINF:-1, Fox
-rtmp://76.73.108.36/livepkgr playpath=fox swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/36.php?file=fox&width=468&height=360
+#EXTINF:-1,HBO2
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.Tv-msn.com/player/player.swf live=1 pageUrl=http://Tv-msn.com/hbo2.html
 
-#EXTINF:-1, NatGeo HD
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?
+#EXTINF:-1,HBO Family
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.Tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html
 
-#EXTINF:-1, History HD
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?
+#EXTINF:-1,HBO Plus
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hboplus.html
 
-#EXTINF:-1, Caça e Pesca HD
-http://noscdn1.connectedviews.com:1935/live/odisseia.stream/livestream.m3u8
+#EXTINF:-1,MAX HD
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/maxhd.html
+
+#EXTINF:-1,MGM
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mgm.html
+
+#EXTINF:-1,SONY
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sony.html
+
+#EXTINF:-1,SONY Spin
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sonyspin.html
+
+#EXTINF:-1,SPACE
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/space.html
+
+#EXTINF:-1,STUDIO UNIVERSAL
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/studio.html
+
+#EXTINF:-1,SYFY
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/syfy.html
+
+#EXTINF:-1,TC CULT
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tccult.html
+
+#EXTINF:-1,TC Pipoca
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Pipoca.html
+
+#EXTINF:-1,ESPN HD
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN%20HD.html
+
+#EXTINF:-1,FOX Sports
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
+
+#EXTINF:-1,DISNEY XD
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/disneyxd.html
+
+#EXTINF:-1,NICK HD / ESPORTE
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=hd2 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/NickHD.html
+
+#EXTINF:-1,AeE
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ae.html
+
+#EXTINF:-1,DISCOVERY Investigação
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=liv swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/investigacao.html
+
+#EXTINF:-1,DISCOVERY TURBO
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/turbo.html
+
+#EXTINF:-1,History
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/history.html
+
+#EXTINF:-1, HOME and HEALTH Discovery
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=home swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/home.html
+
+#EXTINF:-1,NAT GEO
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/natgeo.html
+
+
+
+
+
 
 
 
@@ -396,7 +453,7 @@ http://0.0.0.0:0000
 #EXTINF:-1, Dragon Ball Z
 rtmp://208.53.180.178/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
 
-#EXTINF:-1, Dragon Ball Z
+#EXTINF:-1, Dragon Ball Z [COLOR gray](Link 2)[/COLOR]
 rtmp://208.53.180.218/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
 
 #EXTINF:-1, Naruto Shipudem
@@ -405,23 +462,20 @@ rtmp://208.53.180.130/ctv playpath=naruto swfUrl=http://www.carolineoliveira.com
 #EXTINF:-1, Os Simpsons
 rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
 
-#EXTINF:-1, Simpsons
+#EXTINF:-1, Simpsons [COLOR gray](Link 2)[/COLOR]
 rtmp://208.53.180.218/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
 
-#EXTINF:-1, FUTURAMA
+#EXTINF:-1, Futurama
 rtmp://208.53.164.194/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
 
 #EXTINF:-1, Bob Esponja
 rtmp://208.53.180.178/ctv playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bobesponja.html
 
-#EXTINF:-1, Bob Esponja
+#EXTINF:-1, Bob Esponja [COLOR gray](Link 2)[/COLOR]
 rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/bobesponja.html
 
 #EXTINF:-1, Os Cavaleiros do Zodiaco
 rtmp://208.53.180.130/ctv playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/cdz.html
-
-#EXTINF:-1, Os Cavaleiros do Zodiaco
-rtmp://208.53.180.130/ctv playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/cdz.html
 
 #EXTINF:-1, Caverna do Dragão
 rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/caverna.html
@@ -435,7 +489,7 @@ rtmp://212.129.30.215/digimon playpath=digimon swfUrl=http://livestreamcast.org/
 #EXTINF:-1, YUGIOH
 rtmp://208.53.180.178/ctv playpath=yugioh  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?jonasiptv pageUrl=http://carolineoliveira.com.br/tvamigos/yugioh.html
 
-#EXTINF:-1, XMEN
+#EXTINF:-1, X-MEN
 rtmp://208.53.180.242/ctv playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
 
 #EXTINF:-1, Batman
@@ -480,7 +534,7 @@ rtmp://212.129.30.215/turmadomandachuva/ playpath=turmadomandachuva swfUrl=http:
 #EXTINF:-1, Os Jetsons (Wonder)
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chosjetsons/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.tvonlinebtv.net/streans/jetsons.html
 
-#EXTINF:-1, Os FLINTSTONES
+#EXTINF:-1, Os Flintstones
 rtmp://208.53.180.130/ctv playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
 
 #EXTINF:-1, Os Padrinhos Magicos
@@ -551,7 +605,8 @@ http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
 #EXTINF:-1, Dragon Ball Z
-rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf
+rtmp://192.240.125.26:443/live?7uQlMbOBFIh0A6AZKdRYmzVeyJAKcd3s playpath=live_mega_animes swfUrl=http://vaughnlive.tv/4302642219/swf/VaughnSoftPlayer.swf  pageUrl=http://vaughnlive.tv/embed/video/mega_animes
+
 
 #EXTINF:-1, Los Simpsons
 rtmp://204.45.157.98/app playpath=16051?MTQzNTEzNDMxNDs2NjNiNzViMTk1ODg0NzlmMmZhMTlkZDFiMjcwNzRkNg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a41324e545a6a4e6a6b324d7a63314e6d4d324d54637a4e6a67324e413d3d/920acecd71ef
@@ -1790,7 +1845,7 @@ http://0.0.0.0:0000
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, [COLOR green]Serie Finalizada[/COLOR]
+#EXTINF:-1, /// [COLOR yellow]Serie Finalizada[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e21 Finale
@@ -1856,7 +1911,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-002.mp4?ONSER
 #EXTINF:-1, e01 Lazarus
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]10ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 10[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e21 Salvation
@@ -1922,7 +1977,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Savior
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]9ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 9[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e22 Doomsday
@@ -1991,7 +2046,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Odyssey
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]8ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 8[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e20 Arctic
@@ -2054,7 +2109,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Bizarro
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]7ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 7[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e22 Phantom
@@ -2123,7 +2178,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Zod
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]6ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 6[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e22 Vessel
@@ -2192,7 +2247,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Arrival
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]5ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 5[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e22 Commencement
@@ -2261,7 +2316,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Crusade
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]4ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 4[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e22 Covenant
@@ -2330,7 +2385,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Exile
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-001.mp4?ONSERIES	
 	
-#EXTINF:-1, [COLOR green]3ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 3[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e23 Exodus
@@ -2402,7 +2457,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Vortex
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]2ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 2[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e21 Tempest
@@ -2468,7 +2523,7 @@ http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-002.mp4?ONSERI
 #EXTINF:-1, e01 Pilot
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
 http://0.0.0.0:0000
 
 
@@ -2545,10 +2600,8 @@ http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-002.mp4?ONSE
 #EXTINF:-1, e01 Piloto
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
 http://0.0.0.0:0000
-
-
 
 
 
@@ -2569,9 +2622,6 @@ http://0.0.0.0:0000
 #EXTINF:-1 group-title="The Big Bang Theory - Audio(br)", [COLOR yellow]***A Teoria do Big Bang Dublado***[/COLOR]
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
-
-#EXTINF:-1, [COLOR green]Temporada Terminada[/COLOR]
-http://0.0.0.0:0000
 
 #EXTINF:-1, e24 The Countdown Reflection
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-024.mp4?ONSERIES
@@ -2645,7 +2695,7 @@ http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-002.m
 #EXTINF:-1, e01 The Skank Reflex Analysis
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]5ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 5[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e24 The Roommate Transmogrification
@@ -2720,8 +2770,8 @@ http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-002.m
 #EXTINF:-1, e01 The Robotic Manipulation
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]4ª Temporada Dublado[/COLOR]
-http://0.0.0.0:0000	
+#EXTINF:-1, /// [COLOR green]Temporada 4[/COLOR] ///
+http://0.0.0.0:0000
 	
 #EXTINF:-1, e23 The Lunar Excitation
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-023.mp4?ONSERIES
@@ -2792,7 +2842,7 @@ http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-002.m
 #EXTINF:-1, e01 The Electric Can Opener Fluctuation
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]3ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 3[/COLOR] ///
 http://0.0.0.0:0000
 	
 #EXTINF:-1, e23 The Monopolar Expedition
@@ -2864,7 +2914,7 @@ http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-002.m
 #EXTINF:-1, e01 The Bad Fish Paradigm
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]2ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 2[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e17 The Tangerine Factor
@@ -2918,9 +2968,8 @@ http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-002.m
 #EXTINF:-1, e01 Pilot
 http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
 http://0.0.0.0:0000
-
 
 
 
@@ -2937,9 +2986,6 @@ http://0.0.0.0:0000
 #EXTINF:-1 group-title="The Walking Dead - Audio(br)", [COLOR yellow]***The Walking Dead - Dublado***[/COLOR]
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
-
-#EXTINF:-1, [COLOR green]Temporada Terminada[/COLOR]
-http://0.0.0.0:0000
 
 #EXTINF:-1, e16 Conquer
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-016.mp4?ONSERIES
@@ -2989,7 +3035,7 @@ http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-002.mp4?
 #EXTINF:-1, e01 No Sanctuary
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]5ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 5[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e16 A
@@ -3040,7 +3086,7 @@ http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-002.mp4?
 #EXTINF:-1, e01 30 Days Without an Accident
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]4ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 4[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e16 Welcome to the Tombs
@@ -3091,7 +3137,7 @@ http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-002.mp4?
 #EXTINF:-1, e01 Seed
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]3ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 3[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e13 Beside the Dying Fire
@@ -3133,7 +3179,7 @@ http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-002.mp4?
 #EXTINF:-1, e01 What Lies Ahead
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-001.mp4?ONSERIES
 
-#EXTINF:-1, [COLOR green]2ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 2[/COLOR] ///
 http://0.0.0.0:0000
 
 #EXTINF:-1, e06 TS09
@@ -3154,7 +3200,7 @@ https://r6---sn-p5qlsu7d.googlevideo.com/videoplayback?requiressl=yes&id=d3812f8
 #EXTINF:-1, e01 Days Gone Bye
 https://r4---sn-bg07dnls.googlevideo.com/videoplayback?requiressl=yes&id=39d8abd9421d4c8b&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284708&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=0A80ED9B251782E149AC8C46905AF099AF507FF3.0E2FC51125977B6245C3F1B5BD8B6A713ED75273&key=cms1&pl=21&redirect_counter=1&req_id=dd18b59bf318a3ee&cms_redirect=yes&mm=30&mn=sn-bg07dnls&ms=nxu&mt=1432692697&mv=m
 
-#EXTINF:-1, [COLOR green]1ª Temporada Dublado[/COLOR]
+#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
 http://0.0.0.0:0000
 
 
