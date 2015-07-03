@@ -7,7 +7,7 @@
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *UPDATE 25/06/2015* \o/
+#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *UPDATE 02/07/2015* \o/
 http://0.0.0.0:0000
 
 #EXTINF:-1 group-title="Informação/ Información/ Information", by DANIELL LEALL
@@ -222,6 +222,229 @@ rtmp://srv6.zoeweb.tv:1935/zt2/ playpath=stream
 
 #EXTINF:-1, REDE GOSPEL
 rtmp://media1.igospel.org.br:1935/live playpath=redegospel
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]***[/COLOR] [COLOR green]CANAIS P/ ORGANIZAR[/COLOR] [COLOR yellow]***[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, BAND CE
+rtmp://187.18.187.5/livepkgr/tvjangadeiro3.flv live=1
+
+#EXTINF:-1, Band  HD
+http://199.217.118.218:1935/TarobaCascavelDVR/TarobaCascavelDVR/chunklist_w1116797925_DVR.m3u8
+
+#EXTINF:-1, Band SP
+http://217.23.7.178:80/hls-live/livepkgr/_definst_/liveevent/band.m3u8
+
+#EXTINF:-1, Band SP (Brasil urgente)
+rtmp://evp.mm.uol.com.br/band/_definst_/brasilurgente?iptvjonas
+
+#EXTINF:-1, Canal Do Boi
+rtmp://srvvenus.canaldoboi.com/livecb playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1
+
+#EXTINF:-1, Globo HD
+rtmp://62.210.83.180:1935/liverepeat/ playpath=101010 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf? pageUrl=http://www.ppcast.net/embedP/3.php?file=zuca3&width=468&height=359
+
+#EXTINF:-1, Globo MG HD (720P)
+http://198.27.68.151:1935/GLOBO/GLOBO/live.m3u8?
+
+#EXTINF:-1, Globo RJ
+rtmp://r.livecast.cc/rl/ playpath=bob15sd swfurl=http://livecast.cc/live/player.swf&iptvglobal live=1 pageUrl=http://livecast.cc/live/stream13.php
+
+#EXTINF:-1, Globo RS (RBS TV)
+rtmp://live.pxstream.tv/redirect playpath=gpr8 swfUrl=http://pxstream.tv/jwplayer.flash.swf? live=1 pageUrl=http://pxstream.tv/ token=#ed%h0#w@1 conn=S:OK
+
+#EXTINF:-1, Globo SP 
+http://62.210.83.154:1935/liverepeat/101010/playlist.m3u8
+
+#EXTINF:-1, Globo SP 
+rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds/1.php?c=bobonews445a&vw=100%&vh=100% token=#ed%h0#w@1
+
+#EXTINF:-1, Record Cuiabá
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+
+#EXTINF:-1, Record  HD
+rtmp://flash.midiaip.com.br:1935/tvvitoria/Sample1
+
+#EXTINF:-1, Record SP
+rtmp://31.204.151.253/live playpath=master14 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master14&lar=660&alt=380 token=6144d16b93b7310b
+
+#EXTINF:-1, Record SP
+rtmp://srv6.zoeweb.tv/z821-live/stream2
+
+#EXTINF:-1, Rede Correio TV
+rtmp://174.37.200.35/491 playpath=491 swfUrl=http://www.crosshost.com.br/playerflash/player.swf live=1 pageUrl=http://www.crosshost.com.br/flashvideo/491
+
+#EXTINF:-1, Rede Familia
+rtsp://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1, Rede Minas (TV Brasil)
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+#EXTINF:-1, Rede TV
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=redetv1 swfUrl=http://www.esportestv.eu/player_esportestv.swf pageUrl=http://www.esportestv.eu/?id=teste
+
+#EXTINF:-1, Rede TV 
+rtmp://76.73.108.24/livepkgr playpath=redetv swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/24.php?file=redetv&width=100%&height=100%
+
+#EXTINF:-1, SBT SP
+rtmp://31.204.151.253/live playpath=master94 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master94&lar=660&alt=380 token=6144d16b93b7310b
+
+#EXTINF:-1, SBT PI  HD
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv
+
+#EXTINF:-1, SBT RJ
+rtmp://94.242.228.41:1935/live/ playpath=sbt2 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/sbt.html
+
+#EXTINF:-1, Terra Viva
+rtmp://evp.mm.uol.com.br/terraviva/_definst_/terraviva?
+
+#EXTINF:-1, TV Atalaia (Record - SE)
+rtmp://srv6.zoeweb.tv/z821-live/stream1
+
+#EXTINF:-1, TV Atalaia (Record - SE) 
+rtmp://srv6.zoeweb.tv/z821-live/stream2
+
+#EXTINF:-1, TV Brasil Central (TV Cultura - GO)
+rtmp://rsync.com.br:1935/rsync00026/ playpath=rsync.sdp  swfUrl=http://rsync.com.br/player/jwplayer/player.swf pageUrl=http://rsync.com.br/player/frame_streaming.php?WW=400&HH=300&path=rtmp://rsync.com.br:1935/rsync00026/
+
+#EXTINF:-1, TV Brasil
+rtmp://94.242.228.41:1935/live/ playpath=ch51 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvnanet.biz/boss/ch51-tbs.htm
+
+#EXTINF:-1, TV Candelária (Record - RO)
+rtmp://cast2.player.tv.br/8126/8126
+
+#EXTINF:-1, TV Cultura  HD
+rtmp://200.136.27.12/livepkgr/iago7972 playpath=tvcultura4?adbe-live-event=liveevent swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf pageUrl=http://cmais.com.br/aovivo conn=S:OK swfVfy=true live=true timeout=10
+
+#EXTINF:-1, TV Cultura Parà
+rtmp://str.portalcultura.com.br:8080/live/funtelpa/tv_funtelpa?jonasiptv live=1
+
+#EXTINF:-1, TV Escola  HD
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8?
+
+#EXTINF:-1, TVE BA (TV Brasil - BA)  HD
+rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb live=1
+
+#EXTINF:-1, TV Cidade Verde (SBT - PI)
+rtmp://192.99.46.182:1935/pioneira-tv/ playpath=pioneira-tv swfUrl=http://livehost.com.br/players/playerhtml/jwplayer.flash.swf live=1 pageUrl=http://cidadeverde.com/aovivo.html
+
+#EXTINF:-1, TV Correio (Record - PB)
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8?
+
+#EXTINF:-1, TV Guará (Record News - MA)
+rtmp://v1.fabricahost.com.br:1935/tvguara/ playpath=tvguara swfUrl=http://players.fabricahost.com.br/guara/jwplayer6/jwplayer.flash.swf pageUrl=http://players.fabricahost.com.br/guara/
+
+#EXTINF:-1, TV-E Paraná (TV Cultura - PR)
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1, TV Jangadeiro (BAND - CE)
+rtmp://187.18.187.5/livepkgr/tvjangadeiro3.flv live=1
+
+#EXTINF:-1, TV Jornal (SBT - Recife)  HD
+rtmp://evp.mm.uol.com.br/ne10/_definst_/ne10_tvjornal.sdp playpath=ne10_tvjornal.sdp swfUrl=http://int.imguol.com/entretenimento/player-aovivo/player-final.swf pageUrl=http://aovivo.ne10.uol.com.br/tvjornal/web.php
+
+#EXTINF:-1, Agromix
+rtmp://69.162.116.218:1935/live/ playpath=novoagromix.sdp swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.agrobrasiltv.com.br/
+
+#EXTINF:-1, Amazon Sat
+http://livela.sambatech.com.br/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8?jonasiptv
+
+#EXTINF:-1, Canal futura (tv futura)
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, RCTV - PB
+rtmp://174.37.200.35/491 playpath=491 swfUrl=http://www.crosshost.com.br/playerflash/player.swf pageUrl=http://www.crosshost.com.br/flashvideo/491
+
+#EXTINF:-1, Rede super
+http://livestream-f.akamaihd.net/10205943_3429501_0619a956_1_614@74753?v=3.6.0&fp=WIN%2017,0,0,134&r=VOTPP&g=AQGCZXKZHIQK
+
+#EXTINF:-1, TV Comunitaria DF (Telesur)
+rtmp://mediaserver1.estadovirtual.net:1935/c1954ev1276/ playpath=aovivo swfUrl=http://player.estadovirtual.com.br/player/Player.swf pageUrl=http://www.tvcomunitariadf.com.usrfiles.com/html/7964be_6aff55f1a302f50e90aaee3349a68f86.html
+
+#EXTINF:-1, TV Cámara Natal
+http://srv6.zoeweb.tv:1935/z783-live/stream/playlist.m3u8
+
+#EXTINF:-1, TV Diário de Campos
+rtmp://streaming49.sitehosting.com.br:1935/cadripaes/ playpath=cadripaes  swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.sitehosting.com.br/controle/player.php?nome=cadripaes&servidor=streaming49.sitehosting.com.br&width=640&height=360&autostart=true&iframe=iframe&playerimg=http%3A%2F%2Fsitehosting.com.br%2Fimagens%2Fhospedagemestreaming.jpg%3Fe%3D2%26u%3Dcadripaes&playermovie=&skin=&versao=PREMIUM
+
+#EXTINF:-1, TV Diário do Sertão
+rtmp://wz3.dnip.com.br:1935/pdsertaotv/ playpath=pdsertaotv.sdp  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?iptvjonas pageUrl=http://www.tvonlinegratis.tv/canais/tvdiario-do-sertao.php
+
+#EXTINF:-1, TV Alternativa/Paco do Lumiar (TV Gazeta MA)
+#rtmp://streaming50.sitehosting.com.br:1935/alternativa/ playpath=alternativa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.tvalternativa.tv.br/
+
+
+#EXTINF:-1, TV Geral/Feira de Santana BA
+rtmp://fms2.tacitus.com.br/tvgeral/ playpath=tvgeral  swfUrl=http://jornalfolhadoestado.com/tvgeral/player/jw/jwplayer.flash.swf pageUrl=http://jornalfolhadoestado.com/tvgeral/player/index.php
+
+#EXTINF:-1, TV Aberta",Record News ES
+rtmp://flash.midiaip.com.br:1935/recordnewses/ playpath=recordnewses  swfUrl=http://simnoticias.com.br/site/components/com_hdwplayer/player.swf?r=1774254559  pageUrl=http://www.simnoticias.com.br/site/index.php/tv/record-news-es
+
+
+#EXTINF:-1, TV Itararé HD /PB
+rtmp://177.73.84.38/livepkgr/ playpath=tv swfUrl=http://vjs.zencdn.net/4.5/video-js.swf pageUrl=http://www.televisaonaparaiba.com/p/tv-itarare.html
+
+#EXTINF:-1, Rede Mercosul/PR
+rtmp://a1.fabricahost.com.br:1935/redemercosul playpath=redemercosul  swfUrl=http://streaming.fabricahost.com.br/flashvideo/player.swf pageUrl=http://redemercosul.com.br/
+
+#EXTINF:-1, RICTV/PR
+rtmp://69.46.0.170:1935/ricpr/ playpath=ric.sdp  swfUrl=https://ssl.p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=https://caikron.com.br/iCaikron/3v/player/video/index.php?id=14&servidor=69.46.0.170:1935
+
+#EXTINF:-1, Catve/PR
+rtmp://wowza.catve.com.br/live playpath=livestream  swfUrl=http://catve.com/swf/streaming.swf pageUrl=http://catve.com/ao-vivo
+
+#EXTINF:-1, TV Cidade
+rtmp://179.107.83.10:1935/live/tvcidadeaovivo_1
+
+#EXTINF:-1, TV Cidade 
+rtmp://179.107.83.10:1935/live/tvcidadeaovivo_2
+
+#EXTINF:-1, TV Jornal Caruaru
+rtmp://evp.mm.uol.com.br/ne10/_definst_/ne10_tcaruaru.sdp playpath=ne10_tcaruaru.sdp  swfUrl=http://int.imguol.com/entretenimento/player-aovivo/player-final.swf pageUrl=http://aovivo.ne10.uol.com.br/interior/tv/web.php
+
+#EXTINF:-1, TVE RS
+rtmp://s4.procergs.com.br/tve playpath=stve  swfUrl=http://s4.procergs.com.br/static2/flowplayer-3.2.11.swf pageUrl=http://s4.procergs.com.br/tve/
+
+#EXTINF:-1, TV Jaguar CE
+rtmp://78.46.36.212:1935/tvjaguar1 playpath=tvjaguar1  swfUrl=http://78.46.36.212:2000/system/misc/flvplayer/FLVplayer_Custom.swf pageUrl=http://www.tvjaguar.com.br/site/htmltv.php
+
+#EXTINF:-1, TV Maceio AL
+rtmp://srv3.zoeweb.tv/z46-live/ playpath=stream  swfUrl=http://zplayer.info/gerador3w/jwplayer/jwplayer.flash.swf pageUrl=http://zplayer.info/gerador3w/player.php?width=680&height=510&autoplay=1&controles=1&skin=bekle&share=0&url=rtmp://srv3.zoeweb.tv/z46-live/stream&tipo=1&thumb=
+
+#EXTINF:-1, TV Pocos/Pocos de Calda 
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+#EXTINF:-1, TV POÇOS (Minas)
+rtsp://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp?iptvjonas
+
+#EXTINF:-1, TVT  HD
+#http://tvthdlivehls1-lh.akamaihd.net/i/tvt_hdlive@192276/index_hls1_av-b.m3u8
+
+#EXTINF:-1, TV Santa Cecilia  HD
+rtmp://174.37.200.35/2063/2063
+
+#EXTINF:-1, TVU - TV Urbana (RS)
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+
+#EXTINF:-1, TV Uniao  HD
+http://66.90.103.51:1935/tv/aovivo.sdp/live.m3u8
+
+#EXTINF:-1, TV Votorantim
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -1845,686 +2068,686 @@ http://0.0.0.0:0000
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, /// [COLOR green]Serie Finalizada[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, /// [COLOR green]SERIE FINALIZADA[/COLOR] ///
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e21 Finale
+#EXTINF:-1, S10E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Prophecy
+#EXTINF:-1, S10E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Dominion
+#EXTINF:-1, S10E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Booster
+#EXTINF:-1, S10E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Kent
+#EXTINF:-1, S10E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Scion
+#EXTINF:-1, S10E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Fortune
+#EXTINF:-1, S10E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Masquerade
+#EXTINF:-1, S10E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Beacon
+#EXTINF:-1, S10E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Collateral
+#EXTINF:-1, S10E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Icarus
+#EXTINF:-1, S10E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Luthor
+#EXTINF:-1, S10E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Patriot
+#EXTINF:-1, S10E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Abandoned
+#EXTINF:-1, S10E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Ambush
+#EXTINF:-1, S10E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Harvest
+#EXTINF:-1, S10E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Isis
+#EXTINF:-1, S10E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Homecoming
+#EXTINF:-1, S10E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Supergirl
+#EXTINF:-1, S10E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Shield
+#EXTINF:-1, S10E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Lazarus
+#EXTINF:-1, S10E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/010/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 10[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 10[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e21 Salvation
+#EXTINF:-1, S09E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Hostage
+#EXTINF:-1, S09E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Sacrifice
+#EXTINF:-1, S09E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Charade
+#EXTINF:-1, S09E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Upgrade
+#EXTINF:-1, S09E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Checkmate
+#EXTINF:-1, S09E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Escape
+#EXTINF:-1, S09E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Conspiracy
+#EXTINF:-1, S09E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Persuasion
+#EXTINF:-1, S09E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Warrior
+#EXTINF:-1, S09E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Absolute Justice
+#EXTINF:-1, S09E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Disciple
+#EXTINF:-1, S09E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Pandora
+#EXTINF:-1, S09E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Idol
+#EXTINF:-1, S09E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Kandor
+#EXTINF:-1, S09E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Crossfire
+#EXTINF:-1, S09E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Roulette
+#EXTINF:-1, S09E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Echo
+#EXTINF:-1, S09E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Rabid
+#EXTINF:-1, S09E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Metallo
+#EXTINF:-1, S09E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Savior
+#EXTINF:-1, S09E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/09/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 9[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 9[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e22 Doomsday
+#EXTINF:-1, S08E22
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-022.mp4?ONSERIES
 
-#EXTINF:-1, e21 Injustice
+#EXTINF:-1, S08E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Beast
+#EXTINF:-1, S08E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Stiletto
+#EXTINF:-1, S08E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Eternal
+#EXTINF:-1, S08E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Hex
+#EXTINF:-1, S08E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Turbulence
+#EXTINF:-1, S08E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Infamous
+#EXTINF:-1, S08E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Requiem
+#EXTINF:-1, S08E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Power
+#EXTINF:-1, S08E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Bulletproof
+#EXTINF:-1, S08E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Legion
+#EXTINF:-1, S08E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Bride
+#EXTINF:-1, S08E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Abyss
+#EXTINF:-1, S08E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Bloodline
+#EXTINF:-1, S08E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Identity
+#EXTINF:-1, S08E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Prey
+#EXTINF:-1, S08E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Committed
+#EXTINF:-1, S08E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Instinct
+#EXTINF:-1, S08E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Toxic
+#EXTINF:-1, S08E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Plastique
+#EXTINF:-1, S08E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Odyssey
+#EXTINF:-1, S08E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/08/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 8[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 8[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e20 Arctic
+#EXTINF:-1, S07E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Quest
+#EXTINF:-1, S07E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Apocalypse
+#EXTINF:-1, S07E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Sleeper
+#EXTINF:-1, S07E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Descent
+#EXTINF:-1, S07E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Veritas
+#EXTINF:-1, S07E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Traveler
+#EXTINF:-1, S07E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Hero
+#EXTINF:-1, S07E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Fracture
+#EXTINF:-1, S07E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Siren
+#EXTINF:-1, S07E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Persona
+#EXTINF:-1, S07E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Gemini
+#EXTINF:-1, S07E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Blue
+#EXTINF:-1, S07E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Wrath
+#EXTINF:-1, S07E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Lara
+#EXTINF:-1, S07E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Action
+#EXTINF:-1, S07E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Cure
+#EXTINF:-1, S07E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Fierce
+#EXTINF:-1, S07E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Kara
+#EXTINF:-1, S07E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Bizarro
+#EXTINF:-1, S07E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/07/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 7[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 7[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e22 Phantom
+#EXTINF:-1, S06E22
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-022.mp4?ONSERIES
 
-#EXTINF:-1, e21 Prototype
+#EXTINF:-1, S06E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Noir
+#EXTINF:-1, S06E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Nemesis
+#EXTINF:-1, S06E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Progeny
+#EXTINF:-1, S06E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Combat
+#EXTINF:-1, S06E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Promise
+#EXTINF:-1, S06E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Freak
+#EXTINF:-1, S06E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Trespass
+#EXTINF:-1, S06E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Crimson
+#EXTINF:-1, S06E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Labyrinth
+#EXTINF:-1, S06E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Justice
+#EXTINF:-1, S06E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Hydro
+#EXTINF:-1, S06E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Subterranean
+#EXTINF:-1, S06E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Static
+#EXTINF:-1, S06E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Rage
+#EXTINF:-1, S06E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Fallout
+#EXTINF:-1, S06E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Reunion
+#EXTINF:-1, S06E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Arrow
+#EXTINF:-1, S06E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Wither
+#EXTINF:-1, S06E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Sneeze
+#EXTINF:-1, S06E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Zod
+#EXTINF:-1, S06E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/06/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 6[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 6[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e22 Vessel
+#EXTINF:-1, S05E22
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-022.mp4?ONSERIES
 
-#EXTINF:-1, e21 Oracle
+#EXTINF:-1, S05E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Fade
+#EXTINF:-1, S05E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Mercy
+#EXTINF:-1, S05E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Fragile
+#EXTINF:-1, S05E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Void
+#EXTINF:-1, S05E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Hypnotic
+#EXTINF:-1, S05E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Cyborg
+#EXTINF:-1, S05E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Tomb
+#EXTINF:-1, S05E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Vengeance
+#EXTINF:-1, S05E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Reckoning
+#EXTINF:-1, S05E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Lockdown
+#EXTINF:-1, S05E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Fanatic
+#EXTINF:-1, S05E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Lexmas
+#EXTINF:-1, S05E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Solitude
+#EXTINF:-1, S05E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Splinter
+#EXTINF:-1, S05E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Exposed
+#EXTINF:-1, S05E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Thirst
+#EXTINF:-1, S05E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Aqua
+#EXTINF:-1, S05E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Hidden
+#EXTINF:-1, S05E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Mortal
+#EXTINF:-1, S05E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Arrival
+#EXTINF:-1, S05E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/05/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 5[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 5[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e22 Commencement
+#EXTINF:-1, S04E22
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-022.mp4?ONSERIES
 
-#EXTINF:-1, e21 Forever
+#EXTINF:-1, S04E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Ageless
+#EXTINF:-1, S04E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Blank
+#EXTINF:-1, S04E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Spirit
+#EXTINF:-1, S04E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Onyx
+#EXTINF:-1, S04E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Lucy
+#EXTINF:-1, S04E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Sacred
+#EXTINF:-1, S04E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Krypto
+#EXTINF:-1, S04E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Recruit
+#EXTINF:-1, S04E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Pariah
+#EXTINF:-1, S04E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Unsafe
+#EXTINF:-1, S04E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Scare
+#EXTINF:-1, S04E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Bound
+#EXTINF:-1, S04E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Spell
+#EXTINF:-1, S04E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Jinx
+#EXTINF:-1, S04E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Transference
+#EXTINF:-1, S04E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Run
+#EXTINF:-1, S04E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Devoted
+#EXTINF:-1, S04E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Facade
+#EXTINF:-1, S04E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Gone
+#EXTINF:-1, S04E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Crusade
+#EXTINF:-1, S04E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/04/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 4[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 4[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e22 Covenant
+#EXTINF:-1, S03E22
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-022.mp4?ONSERIES
 
-#EXTINF:-1, e21 Forsaken
+#EXTINF:-1, S03E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Talisman
+#EXTINF:-1, S03E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-020.mp4?ONSERIES
 	
-#EXTINF:-1, e19 Memoria
+#EXTINF:-1, S03E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Truth
+#EXTINF:-1, S03E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Legacy
+#EXTINF:-1, S03E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Crisis
+#EXTINF:-1, S03E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Ressurection
+#EXTINF:-1, S03E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Obsession
+#EXTINF:-1, S03E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Velocity
+#EXTINF:-1, S03E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Hereafter
+#EXTINF:-1, S03E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Delete
+#EXTINF:-1, S03E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Whisper
+#EXTINF:-1, S03E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Asylum
+#EXTINF:-1, S03E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Shattered
+#EXTINF:-1, S03E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Magnetic
+#EXTINF:-1, S03E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Relic
+#EXTINF:-1, S03E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Perry
+#EXTINF:-1, S03E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Slumber
+#EXTINF:-1, S03E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Extinction
+#EXTINF:-1, S03E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Phoenix
+#EXTINF:-1, S03E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Exile
+#EXTINF:-1, S03E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/03/500-001.mp4?ONSERIES	
 	
-#EXTINF:-1, /// [COLOR green]Temporada 3[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 3[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e23 Exodus
+#EXTINF:-1, S02E23
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-023.mp4?ONSERIES
 
-#EXTINF:-1, e22 Calling
+#EXTINF:-1, S02E22
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-022.mp4?ONSERIES
 
-#EXTINF:-1, e21 Accelerate
+#EXTINF:-1, S02E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Witness
+#EXTINF:-1, S02E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Precipice
+#EXTINF:-1, S02E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Visitor
+#EXTINF:-1, S02E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Rosseta
+#EXTINF:-1, S02E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Fever
+#EXTINF:-1, S02E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Prodigal
+#EXTINF:-1, S02E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Rush
+#EXTINF:-1, S02E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Suspect
+#EXTINF:-1, S02E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Insurgence
+#EXTINF:-1, S02E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Visage
+#EXTINF:-1, S02E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Skinwalkers
+#EXTINF:-1, S02E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Dichotic
+#EXTINF:-1, S02E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Ryan
+#EXTINF:-1, S02E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Lineage
+#EXTINF:-1, S02E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Redux
+#EXTINF:-1, S02E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Nocturne
+#EXTINF:-1, S02E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Red
+#EXTINF:-1, S02E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Duplicity
+#EXTINF:-1, S02E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Heat
+#EXTINF:-1, S02E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Vortex
+#EXTINF:-1, S02E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/02/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 2[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 2[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e21 Tempest
+#EXTINF:-1, S01E21
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-021.mp4?ONSERIES
 
-#EXTINF:-1, e20 Obscura
+#EXTINF:-1, S01E20
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Crush
+#EXTINF:-1, S01E19
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Drone
+#EXTINF:-1, S01E18
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Reaper
+#EXTINF:-1, S01E17
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Stray
+#EXTINF:-1, S01E16
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Nicodemus
+#EXTINF:-1, S01E15
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Zero
+#EXTINF:-1, S01E14
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Kinetic
+#EXTINF:-1, S01E13
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Leech
+#EXTINF:-1, S01E12
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Hug
+#EXTINF:-1, S01E11
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Shimmer
+#EXTINF:-1, S01E10
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Rogue
+#EXTINF:-1, S01E09
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Jitters
+#EXTINF:-1, S01E08
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Craving
+#EXTINF:-1, S01E07
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Hourglass
+#EXTINF:-1, S01E06
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Cool
+#EXTINF:-1, S01E05
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 X-Ray
+#EXTINF:-1, S01E04
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Hothead
+#EXTINF:-1, S01E03
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Metamorphosis
+#EXTINF:-1, S01E02
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Pilot
+#EXTINF:-1, S01E01
 http://origin.assistirserieshd.com:8081/vod/smallville/Dub/01/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 1[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
 
 
@@ -2539,452 +2762,82 @@ http://abcd1234.com.br
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
-#EXTINF:-1 group-title="Supernatural - Audio(br)", [COLOR yellow]***Sobrenatural Dublado***[/COLOR]
+#EXTINF:-1 group-title="Supernatural - Audio(br)", [COLOR yellow]***SOBRENATURAL DUBLADO***[/COLOR]
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, /// [COLOR green]Final da Temporada[/COLOR] ///
-http://abcd1234.com.br
-
-#EXTINF:-1, e22 Devil's Trap
+#EXTINF:-1, S01E22 off
 http://s001.videopw.com/e/b6ca8bd3c1e88f00befe76a602a1e73e.flv?st=nEOULmRG1WVqijb5X8GA1g
 
-#EXTINF:-1, e21 Salvation
+#EXTINF:-1, S01E21 off
 http://s001.videopw.com/e/57e8bbbfcfb9669638bb002d37ed11df.flv?st=zk7ZrAe4M_lQFBFlHB7Jmg
 
-#EXTINF:-1, e20 Dead Man's Blood
+#EXTINF:-1, S01E20
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-020.mp4?ONSERIES
 
-#EXTINF:-1, e19 Provenance
+#EXTINF:-1, S01E19 off
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-019.mp4?ONSERIES
 
-#EXTINF:-1, e18 Something Wicked
+#EXTINF:-1, S01E18
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-018.mp4?ONSERIES
 
-#EXTINF:-1, e17 Hell House
+#EXTINF:-1, S01E17
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-017.mp4?ONSERIES
 
-#EXTINF:-1, e16 Shadow
+#EXTINF:-1, S01E16
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 The Benders
+#EXTINF:-1, S01E15
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Nightmare
+#EXTINF:-1, S01E14
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Route 666
+#EXTINF:-1, S01E13
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Faith
-http://s001.videopw.com/e/63226204a6fad2485364251ceee906e1.flv?st=yKlmoZEeQq723aQuEqSOTg
+#EXTINF:-1, S01E12 off
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-012.mp4?iptvjonas
 
-#EXTINF:-1, e11 Scarecrow
+#EXTINF:-1, S01E11
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Asylum
+#EXTINF:-1, S01E10
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Home
+#EXTINF:-1, S01E09
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Bugs
+#EXTINF:-1, S01E08
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Hook Man
+#EXTINF:-1, S01E07
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Skin
+#EXTINF:-1, S01E06
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Bloody Mary
-http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-005.mp4?ONSERIES
+#EXTINF:-1, S01E05
+http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-005.mp4?iptvjonas
 
-#EXTINF:-1, e04 Phantom Traveler
+#EXTINF:-1, S01E04
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Dead In The Water 
+#EXTINF:-1, S01E03
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Wendigo
+#EXTINF:-1, S01E02
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Piloto
+#EXTINF:-1, S01E01
 http://origin.assistirserieshd.com:8081/vod/supernatural/Dub/01/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 1[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-#-------------------------------------------------------------------------------------------------------#
-
-#///////////////////////////////////////////////////////////////////////////////////////////////////////#
-#EXTINF:-1 group-title="The Big Bang Theory - Audio(br)", [COLOR yellow]***A Teoria do Big Bang Dublado***[/COLOR]
-http://0.0.0.0:0000
-#///////////////////////////////////////////////////////////////////////////////////////////////////////#
-
-#EXTINF:-1, /// [COLOR green]Final da Temporada[/COLOR] ///
-http://abcd1234.com.br
-
-#EXTINF:-1, e24 The Countdown Reflection
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-024.mp4?ONSERIES
-
-#EXTINF:-1, e23 The Launch Acceleration
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-023.mp4?ONSERIES
-
-#EXTINF:-1, e22 The Stag Convergence
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-022.mp4?ONSERIES
-
-#EXTINF:-1, e21 The Hawking Excitation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-021.mp4?ONSERIES
-
-#EXTINF:-1, e20 The Transporter Malfunction
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-020.mp4?ONSERIES
-
-#EXTINF:-1, e19 The Weekend Vortex
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-019.mp4?ONSERIES
-
-#EXTINF:-1, e18 The Werewolf Transformation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-018.mp4?ONSERIES
-
-#EXTINF:-1, e17 The Rothman Disintegration
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-017.mp4?ONSERIES
-
-#EXTINF:-1, e16 The Vacation Solution
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-016.mp4?ONSERIES
-
-#EXTINF:-1, e15 The Friendship Contraction
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-015.mp4?ONSERIES
-
-#EXTINF:-1, e14 The Beta Test Initiation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-014.mp4?ONSERIES
-
-#EXTINF:-1, e13 The Recombination Hypothesis
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-013.mp4?ONSERIES
-
-#EXTINF:-1, e12 The Shiny Trinket Maneuver
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-012.mp4?ONSERIES
-
-#EXTINF:-1, e11 The Speckerman Recurrence
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-011.mp4?ONSERIES
-
-#EXTINF:-1, e10 The Flaming Spittoon Acquisition
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-010.mp4?ONSERIES
-
-#EXTINF:-1, e09 The Ornithophobia Diffusion
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-009.mp4?ONSERIES
-
-#EXTINF:-1, e08 The Isolation Permutation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-008.mp4?ONSERIES
-
-#EXTINF:-1, e07 The Good Guy Fluctuation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-007.mp4?ONSERIES
-
-#EXTINF:-1, e06 The Rhinitis Revelation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-006.mp4?ONSERIES
-
-#EXTINF:-1, e05 The Russian Rocket Reaction
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-005.mp4?ONSERIES
-
-#EXTINF:-1, e04 The Wiggly Finger Catalyst
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-004.mp4?ONSERIES
-
-#EXTINF:-1, e03 The Pullet Groin Extrapolation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-003.mp4?ONSERIES
-
-#EXTINF:-1, e02 The Infestation Hypothesis
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-002.mp4?ONSERIES
-
-#EXTINF:-1, e01 The Skank Reflex Analysis
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-001.mp4?ONSERIES
-
-#EXTINF:-1, /// [COLOR green]Temporada 5[/COLOR] ///
-http://abcd1234.com.br
-
-#EXTINF:-1, e24 The Roommate Transmogrification
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-024.mp4?ONSERIES
-
-#EXTINF:-1, e23 The Engagement Reaction
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-023.mp4?ONSERIES
-
-#EXTINF:-1, e22 The Wildebeest Inplementation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-022.mp4?ONSERIES
-
-#EXTINF:-1, e21 The Agreement Dissection
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-021.mp4?ONSERIES
-
-#EXTINF:-1, e20 The Herb Garden Germination
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-020.mp4?ONSERIES
-
-#EXTINF:-1, e19 The Zarnecki Incursion
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-019.mp4?ONSERIES
-
-#EXTINF:-1, e18 The Prestidigitation Approximation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-018.mp4?ONSERIES
-
-#EXTINF:-1, e17 The Toast Derivation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-017.mp4?ONSERIES
-
-#EXTINF:-1, e16 The Cohabitation Formula
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-016.mp4?ONSERIES
-
-#EXTINF:-1, e15 The Benefactor Factor
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-015.mp4?ONSERIES
-
-#EXTINF:-1, e14 The Thespian Catalyst
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-014.mp4?ONSERIES
-
-#EXTINF:-1, e13 The Love Car Displacement
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-013.mp4?ONSERIES
-
-#EXTINF:-1, e12 The Bus Pants Utilization
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-012.mp4?ONSERIES
-
-#EXTINF:-1, e11 The Justice League Recombination
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-011.mp4?ONSERIES
-
-#EXTINF:-1, e10 The Alien Parasite Hypothesis
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-010.mp4?ONSERIES
-
-#EXTINF:-1, e09 The Boyfriend Complexity
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-009.mp4?ONSERIES
-
-#EXTINF:-1, e08 The 21-Second Excitation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-008.mp4?ONSERIES
-
-#EXTINF:-1, e07 The Apology Insufficiency
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-007.mp4?ONSERIES
-
-#EXTINF:-1, e06 The Irish Pub Formulation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-006.mp4?ONSERIES
-
-#EXTINF:-1, e05 The Desperation Emanation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-005.mp4?ONSERIES
-
-#EXTINF:-1, e04 The Hot Troll Deviation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-004.mp4?ONSERIES
-
-#EXTINF:-1, e03 The Zazzy Substution
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-003.mp4?ONSERIES
-
-#EXTINF:-1, e02 The Cruciferous Vegetable Amplification
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-002.mp4?ONSERIES
-
-#EXTINF:-1, e01 The Robotic Manipulation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-001.mp4?ONSERIES
-
-#EXTINF:-1, /// [COLOR green]Temporada 4[/COLOR] ///
-http://abcd1234.com.br
-	
-#EXTINF:-1, e23 The Lunar Excitation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-023.mp4?ONSERIES
-
-#EXTINF:-1, e22 The Staircase Implementation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-022.mp4?ONSERIES
-
-#EXTINF:-1, e21 The Plimpton Stimulation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-019.mp4?ONSERIES
-
-#EXTINF:-1, e20 The Spaghetti Catalyst
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-020.mp4?ONSERIES
-
-#EXTINF:-1, e19 The Wheaton Recurrence
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-017.mp4?ONSERIES
-
-#EXTINF:-1, e18 The Pants Alternative
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-018.mp4?ONSERIES
-
-#EXTINF:-1, e17 The Precious Fragmentation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-017.mp4?ONSERIES
-
-#EXTINF:-1, e16 The Excelsior Acquisition
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-016.mp4?ONSERIES
-
-#EXTINF:-1, e15 The Large Hadron Collision
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-015.mp4?ONSERIES
-
-#EXTINF:-1, e14 The Einstein Approximation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-014.mp4?ONSERIES
-
-#EXTINF:-1, e13 The Bozeman Reaction
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-013.mp4?ONSERIES
-
-#EXTINF:-1, e12 The Psychic Vortex
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-012.mp4?ONSERIES
-
-#EXTINF:-1, e11 The Maternal Congruence
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-011.mp4?ONSERIES
-
-#EXTINF:-1, e10 The Gorilla Experiment
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-010.mp4?ONSERIES
-
-#EXTINF:-1, e09 The Vengeance Formulation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-009.mp4?ONSERIES
-
-#EXTINF:-1, e08 The Adhesive Duck Deficiency
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-008.mp4?ONSERIES
-
-#EXTINF:-1, e07 The Guitarist Amplification
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-007.mp4?ONSERIES
-
-#EXTINF:-1, e06 The Cornhusker Vortex
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-006.mp4?ONSERIES
-
-#EXTINF:-1, e05 The Creepy Candy Coating Corollary
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-005.mp4?ONSERIES
-
-#EXTINF:-1, e04 The Pirate Solution
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-004.mp4?ONSERIES
-
-#EXTINF:-1, e03 The Gothowitz Deviation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-003.mp4?ONSERIES
-
-#EXTINF:-1, e02 The Jiminy Conjecture
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-002.mp4?ONSERIES
-
-#EXTINF:-1, e01 The Electric Can Opener Fluctuation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-001.mp4?ONSERIES
-
-#EXTINF:-1, /// [COLOR green]Temporada 3[/COLOR] ///
-http://abcd1234.com.br
-	
-#EXTINF:-1, e23 The Monopolar Expedition
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-023.mp4?ONSERIES
-
-#EXTINF:-1, e22 The Classified Material Turbulence
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-022.mp4?ONSERIES
-
-#EXTINF:-1, e21 The Vegas Renormalization
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-021.mp4?ONSERIES
-
-#EXTINF:-1, e20 The Hofstadter Isotope
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-020.mp4?ONSERIES
-
-#EXTINF:-1, e19 The Dead Hooker Juxtaposition
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-019.mp4?ONSERIES
-
-#EXTINF:-1, e18 The Work Song Nanocluster
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-018.mp4?ONSERIES
-
-#EXTINF:-1, e17 The Terminator Decoupling
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-017.mp4?ONSERIES
-
-#EXTINF:-1, e16 The Cushion Saturation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-016.mp4?ONSERIES
-
-#EXTINF:-1, e15 The Maternal Capacitance
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-015.mp4?ONSERIES
-
-#EXTINF:-1, e14 The Financial Permeability
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-014.mp4?ONSERIES
-
-#EXTINF:-1, e13 The Friendship Algorithm
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-013.mp4?ONSERIES
-
-#EXTINF:-1, e12 The Killer Robot Instability
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-012.mp4?ONSERIES
-
-#EXTINF:-1, e11 The Bath Item Gift Hypothesis
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-011.mp4?ONSERIES
-
-#EXTINF:-1, e10 The Vartabedian Conudrum
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-010.mp4?ONSERIES
-
-#EXTINF:-1, e09 The White Aspargus Triangulation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-009.mp4?ONSERIES
-
-#EXTINF:-1, e08 The Lizard-Spock Expansion
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-008.mp4?ONSERIES
-
-#EXTINF:-1, e07 The Panty Piñata Polarization
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-007.mp4?ONSERIES
-
-#EXTINF:-1, e06 The Cooper-Nowitzki Theorem
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-006.mp4?ONSERIES
-
-#EXTINF:-1, e05 The Euclid Alternative
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-005.mp4?ONSERIES
-
-#EXTINF:-1, e04 The Griffin Equivalency
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-004.mp4?ONSERIES
-
-#EXTINF:-1, e03 The Barbarian Sublimation
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-003.mp4?ONSERIES
-
-#EXTINF:-1, e02 The Codpiece Topology
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-002.mp4?ONSERIES
-
-#EXTINF:-1, e01 The Bad Fish Paradigm
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-001.mp4?ONSERIES
-
-#EXTINF:-1, /// [COLOR green]Temporada 2[/COLOR] ///
-http://abcd1234.com.br
-
-#EXTINF:-1, e17 The Tangerine Factor
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-017.mp4?ONSERIES
-
-#EXTINF:-1, e16 The Peanut Reaction
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-016.mp4?ONSERIES
-
-#EXTINF:-1, e15 The Shiksa Indeterminacy
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-015.mp4?ONSERIES
-
-#EXTINF:-1, e14 The Nerdmabelia Scattering
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-014.mp4?ONSERIES
-
-#EXTINF:-1, e13 The Batjar Conjecture
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-013.mp4?ONSERIES
-
-#EXTINF:-1, e12 The Jerusalem Diary
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-012.mp4?ONSERIES
-
-#EXTINF:-1, e11 The Pancake Batter Anomaly
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-011.mp4?ONSERIES
-
-#EXTINF:-1, e10 The Loobenfeld Decay
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-010.mp4?ONSERIES
-
-#EXTINF:-1, e09 The Cooper-Hofstadter Polarization
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-009.mp4?ONSERIES
-
-#EXTINF:-1, e08 The Grasshopper Experiment
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-008.mp4?ONSERIES
-
-#EXTINF:-1, e07 The Dumpling Paradox
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-007.mp4?ONSERIES
-
-#EXTINF:-1, e06 The Middle Earth Paradigm
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-006.mp4?ONSERIES
-
-#EXTINF:-1, e05 The Hamburger Postulate
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-005.mp4?ONSERIES
-
-#EXTINF:-1, e04 The Luminous Fish Effect
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-004.mp4?ONSERIES
-
-#EXTINF:-1, e03 The Fuzzyboots Corollary
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-003.mp4?ONSERIES
-
-#EXTINF:-1, e02 The Big Bran Hypothesis
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-002.mp4?ONSERIES
-
-#EXTINF:-1, e01 Pilot
-http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-001.mp4?ONSERIES
-
-#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
-http://abcd1234.com.br
 
 
 
@@ -3002,224 +2855,825 @@ http://abcd1234.com.br
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, /// [COLOR green]Final da Temporada[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, /// [COLOR green]FINAL DA TEMPORADA[/COLOR] ///
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e16 Conquer
+#EXTINF:-1, S05E16
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Try
+#EXTINF:-1, S05E15
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Spend
+#EXTINF:-1, S05E14
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Forget
+#EXTINF:-1, S05E13
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Remember
+#EXTINF:-1, S05E12
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 The Distance
+#EXTINF:-1, S05E11
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Them
+#EXTINF:-1, S05E10
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 What Happened and What’s Going On
+#EXTINF:-1, S05E09
 http://origin.assistirserieshd.com:8081/vod/sv2/the-walking-dead/Dub/05/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Coda
+#EXTINF:-1, S05E08
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Crossed
+#EXTINF:-1, S05E07
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Consumed
+#EXTINF:-1, S05E06
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Self Help
+#EXTINF:-1, S05E05
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Slabtown
+#EXTINF:-1, S05E04
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Four Walls and a Roof
+#EXTINF:-1, S05E03
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Strangers
+#EXTINF:-1, S05E02
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 No Sanctuary
+#EXTINF:-1, S05E01
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/05/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 5[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 5[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e16 A
+#EXTINF:-1, S04E16
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 Us
+#EXTINF:-1, S04E15
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 The Grove
+#EXTINF:-1, S04E14
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Alone
+#EXTINF:-1, S04E13
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Still
+#EXTINF:-1, S04E12
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Claimed
+#EXTINF:-1, S04E11
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Inmates
+#EXTINF:-1, S04E10
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 After
+#EXTINF:-1, S04E09
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Too Far Gone
+#EXTINF:-1, S04E08
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Dead Weight
+#EXTINF:-1, S04E07
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Live Bait
+#EXTINF:-1, S04E06
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Internment
+#EXTINF:-1, S04E05
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Indifference
+#EXTINF:-1, S04E04
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Isolation
+#EXTINF:-1, S04E03
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Infected
+#EXTINF:-1, S04E02
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 30 Days Without an Accident
+#EXTINF:-1, S04E01
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/04/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 4[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 4[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e16 Welcome to the Tombs
+#EXTINF:-1, S03E16
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-016.mp4?ONSERIES
 
-#EXTINF:-1, e15 This Sorrowful Life
+#EXTINF:-1, S03E15
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-015.mp4?ONSERIES
 
-#EXTINF:-1, e14 Prey
+#EXTINF:-1, S03E14
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-014.mp4?ONSERIES
 
-#EXTINF:-1, e13 Arrow on the Doorpost
+#EXTINF:-1, S03E13
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Clear
+#EXTINF:-1, S03E12
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 I Ain’t a Judas
+#EXTINF:-1, S03E11
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 Home
+#EXTINF:-1, S03E10
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 The Suicide King
+#EXTINF:-1, S03E09
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Made to Suffer
+#EXTINF:-1, S03E08
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 When the Dead Come Knocking
+#EXTINF:-1, S03E07
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Hounded
+#EXTINF:-1, S03E06
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Say the Word
+#EXTINF:-1, S03E05
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Killer Within
+#EXTINF:-1, S03E04
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Walk With Me
+#EXTINF:-1, S03E03
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Sick
+#EXTINF:-1, S03E02
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 Seed
+#EXTINF:-1, S03E01
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/03/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 3[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 3[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e13 Beside the Dying Fire
+#EXTINF:-1, S02E13
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-013.mp4?ONSERIES
 
-#EXTINF:-1, e12 Better Angels
+#EXTINF:-1, S02E12
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-012.mp4?ONSERIES
 
-#EXTINF:-1, e11 Judge Jury Executioner
+#EXTINF:-1, S02E11
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-011.mp4?ONSERIES
 
-#EXTINF:-1, e10 18 Miles Out
+#EXTINF:-1, S02E10
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-010.mp4?ONSERIES
 
-#EXTINF:-1, e09 Triggerfinger
+#EXTINF:-1, S02E09
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-009.mp4?ONSERIES
 
-#EXTINF:-1, e08 Nebraska
+#EXTINF:-1, S02E08
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-008.mp4?ONSERIES
 
-#EXTINF:-1, e07 Pretty Much Dead Already
+#EXTINF:-1, S02E07
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-007.mp4?ONSERIES
 
-#EXTINF:-1, e06 Secrets
+#EXTINF:-1, S02E06
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-006.mp4?ONSERIES
 
-#EXTINF:-1, e05 Chupacabra
+#EXTINF:-1, S02E05
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-005.mp4?ONSERIES
 
-#EXTINF:-1, e04 Cherokee Rose
+#EXTINF:-1, S02E04
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-004.mp4?ONSERIES
 
-#EXTINF:-1, e03 Save the Last One
+#EXTINF:-1, S02E03
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-003.mp4?ONSERIES
 
-#EXTINF:-1, e02 Bloodletting
+#EXTINF:-1, S02E02
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-002.mp4?ONSERIES
 
-#EXTINF:-1, e01 What Lies Ahead
+#EXTINF:-1, S02E01
 http://origin.assistirserieshd.com:8081/vod/the-walking-dead/Dub/02/500-001.mp4?ONSERIES
 
-#EXTINF:-1, /// [COLOR green]Temporada 2[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 2[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, e06 TS09
+#EXTINF:-1, S01E06
 https://r4---sn-p5qlsu7e.googlevideo.com/videoplayback?requiressl=yes&id=e71fdf49c63338d8&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284744&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5C869EB477E6E4425E5C003FFD31CD8820F737AD.167B4BC2439C997230F83A9411127C55DD1E8322&key=cms1&pl=21&redirect_counter=1&req_id=9e0abb617514a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7e&ms=tsu&mt=1432692739&mv=m
 
-#EXTINF:-1, e05 Wildfire
+#EXTINF:-1, S01E05
 https://r3---sn-p5qlsu7z.googlevideo.com/videoplayback?requiressl=yes&id=07ea8d84019cfda0&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284739&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=4E1555C32F1F95CAE3DB968C67374855709EBFAB.20D6447E06B69992C89876A29A21E48034886203&key=cms1&pl=21&redirect_counter=1&req_id=6ed91d5b7212a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7z&ms=tsu&mt=1432692678&mv=m
 
-#EXTINF:-1, e04 Vatos
+#EXTINF:-1, S01E04
 https://r6---sn-p5qlsu7s.googlevideo.com/videoplayback?requiressl=yes&id=622b9fcf48ccd718&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284733&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=69D750BD15A1AFBDC1611EA411E617696BA8BA29.32984768B9EEB0D6A367D7CA00800F7243E31BFB&key=cms1&pl=21&redirect_counter=1&req_id=2df3302fd7f4a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7s&ms=tsu&mt=1432692678&mv=m
 
-#EXTINF:-1, e03 Tell It To The Frogs
+#EXTINF:-1, S01E03
 https://r3---sn-p5qlsu7r.googlevideo.com/videoplayback?requiressl=yes&id=040d9ad622f2c133&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284727&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=4EF3A2B738476EA23E2F95D395AC3AC7AC7A46ED.37D1B9710412B863D19FD149364AE96E94A6298A&key=cms1&pl=21&redirect_counter=1&req_id=6d4af322daeba3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7r&ms=tsu&mt=1432692678&mv=m
 
-#EXTINF:-1, e02 Guts
+#EXTINF:-1, S01E02
 https://r6---sn-p5qlsu7d.googlevideo.com/videoplayback?requiressl=yes&id=d3812f818204e3e6&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284720&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=5D4342BD496DEF21A184C567C704157598E0403B.362AF770E9A211FC2A27BCF4ACCD65AB806C2FBE&key=cms1&pl=21&redirect_counter=1&req_id=d5dd3c971f28a3ee&cms_redirect=yes&mm=26&mn=sn-p5qlsu7d&ms=tsu&mt=1432692678&mv=m
 
-#EXTINF:-1, e01 Days Gone Bye
+#EXTINF:-1, S01E01
 https://r4---sn-bg07dnls.googlevideo.com/videoplayback?requiressl=yes&id=39d8abd9421d4c8b&itag=35&source=webdrive&ip=177.133.223.21&ipbits=0&expire=1435284708&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=0A80ED9B251782E149AC8C46905AF099AF507FF3.0E2FC51125977B6245C3F1B5BD8B6A713ED75273&key=cms1&pl=21&redirect_counter=1&req_id=dd18b59bf318a3ee&cms_redirect=yes&mm=30&mn=sn-bg07dnls&ms=nxu&mt=1432692697&mv=m
 
-#EXTINF:-1, /// [COLOR green]Temporada 1[/COLOR] ///
-http://abcd1234.com.br
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 1[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
 
 
 
+
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="The Big Bang Theory - Audio(br)", [COLOR yellow]***A Teoria do Big Bang Dublado***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, /// [COLOR green]FINAL DA TEMPORADA[/COLOR] ///
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, S05E24
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-024.mp4?ONSERIES
+
+#EXTINF:-1, S05E23
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-023.mp4?ONSERIES
+
+#EXTINF:-1, S05E22
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-022.mp4?ONSERIES
+
+#EXTINF:-1, S05E21
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-021.mp4?ONSERIES
+
+#EXTINF:-1, S05E20
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-020.mp4?ONSERIES
+
+#EXTINF:-1, S05E19
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-019.mp4?ONSERIES
+
+#EXTINF:-1, S05E18
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-018.mp4?ONSERIES
+
+#EXTINF:-1, S05E17
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-017.mp4?ONSERIES
+
+#EXTINF:-1, S05E16
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-016.mp4?ONSERIES
+
+#EXTINF:-1, S05E15
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-015.mp4?ONSERIES
+
+#EXTINF:-1, S05E14
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-014.mp4?ONSERIES
+
+#EXTINF:-1, S05E13
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-013.mp4?ONSERIES
+
+#EXTINF:-1, S05E12
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-012.mp4?ONSERIES
+
+#EXTINF:-1, S05E11
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-011.mp4?ONSERIES
+
+#EXTINF:-1, S05E10
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-010.mp4?ONSERIES
+
+#EXTINF:-1, S05E09
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-009.mp4?ONSERIES
+
+#EXTINF:-1, S05E08
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-008.mp4?ONSERIES
+
+#EXTINF:-1, S05E07
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-007.mp4?ONSERIES
+
+#EXTINF:-1, S05E06
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-006.mp4?ONSERIES
+
+#EXTINF:-1, S05E05
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-005.mp4?ONSERIES
+
+#EXTINF:-1, S05E04
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-004.mp4?ONSERIES
+
+#EXTINF:-1, S05E03
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-003.mp4?ONSERIES
+
+#EXTINF:-1, S05E02
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-002.mp4?ONSERIES
+
+#EXTINF:-1, S05E01
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/05/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 5[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, S04E24
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-024.mp4?ONSERIES
+
+#EXTINF:-1, S04E23
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-023.mp4?ONSERIES
+
+#EXTINF:-1, S04E22
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-022.mp4?ONSERIES
+
+#EXTINF:-1, S04E21
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-021.mp4?ONSERIES
+
+#EXTINF:-1, S04E20
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-020.mp4?ONSERIES
+
+#EXTINF:-1, S04E19
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-019.mp4?ONSERIES
+
+#EXTINF:-1, S04E18
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-018.mp4?ONSERIES
+
+#EXTINF:-1, S04E17
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-017.mp4?ONSERIES
+
+#EXTINF:-1, S04E16
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-016.mp4?ONSERIES
+
+#EXTINF:-1, S04E15
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-015.mp4?ONSERIES
+
+#EXTINF:-1, S04E14
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-014.mp4?ONSERIES
+
+#EXTINF:-1, S04E13
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-013.mp4?ONSERIES
+
+#EXTINF:-1, S04E12
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-012.mp4?ONSERIES
+
+#EXTINF:-1, S04E11
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-011.mp4?ONSERIES
+
+#EXTINF:-1, S04E10
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-010.mp4?ONSERIES
+
+#EXTINF:-1, S04E09
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-009.mp4?ONSERIES
+
+#EXTINF:-1, S04E08
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-008.mp4?ONSERIES
+
+#EXTINF:-1, S04E07
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-007.mp4?ONSERIES
+
+#EXTINF:-1, S04E06
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-006.mp4?ONSERIES
+
+#EXTINF:-1, S04E05
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-005.mp4?ONSERIES
+
+#EXTINF:-1, S04E04
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-004.mp4?ONSERIES
+
+#EXTINF:-1, S04E03
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-003.mp4?ONSERIES
+
+#EXTINF:-1, S04E02
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-002.mp4?ONSERIES
+
+#EXTINF:-1, S04E01
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/04/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 4[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+	
+#EXTINF:-1, S03E23
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-023.mp4?ONSERIES
+
+#EXTINF:-1, S03E22
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-022.mp4?ONSERIES
+
+#EXTINF:-1, S03E21
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-019.mp4?ONSERIES
+
+#EXTINF:-1, S03E20
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-020.mp4?ONSERIES
+
+#EXTINF:-1, S03E19
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-017.mp4?ONSERIES
+
+#EXTINF:-1, S03E18
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-018.mp4?ONSERIES
+
+#EXTINF:-1, S03E17
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-017.mp4?ONSERIES
+
+#EXTINF:-1, S03E16
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-016.mp4?ONSERIES
+
+#EXTINF:-1, S03E15
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-015.mp4?ONSERIES
+
+#EXTINF:-1, S03E14
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-014.mp4?ONSERIES
+
+#EXTINF:-1, S03E13
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-013.mp4?ONSERIES
+
+#EXTINF:-1, S03E12
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-012.mp4?ONSERIES
+
+#EXTINF:-1, S03E11
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-011.mp4?ONSERIES
+
+#EXTINF:-1, S03E10
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-010.mp4?ONSERIES
+
+#EXTINF:-1, S03E09
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-009.mp4?ONSERIES
+
+#EXTINF:-1, S03E08
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-008.mp4?ONSERIES
+
+#EXTINF:-1, S03E07
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-007.mp4?ONSERIES
+
+#EXTINF:-1, S03E06
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-006.mp4?ONSERIES
+
+#EXTINF:-1, S03E05
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-005.mp4?ONSERIES
+
+#EXTINF:-1, S03E04
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-004.mp4?ONSERIES
+
+#EXTINF:-1, S03E03
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-003.mp4?ONSERIES
+
+#EXTINF:-1, S03E02
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-002.mp4?ONSERIES
+
+#EXTINF:-1, S03E01
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/03/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 3[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+	
+#EXTINF:-1, S02E23
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-023.mp4?ONSERIES
+
+#EXTINF:-1, S02E22
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-022.mp4?ONSERIES
+
+#EXTINF:-1, S02E21
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-021.mp4?ONSERIES
+
+#EXTINF:-1, S02E20
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-020.mp4?ONSERIES
+
+#EXTINF:-1, S02E19
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-019.mp4?ONSERIES
+
+#EXTINF:-1, S02E18
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-018.mp4?ONSERIES
+
+#EXTINF:-1, S02E17
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-017.mp4?ONSERIES
+
+#EXTINF:-1, S02E16
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-016.mp4?ONSERIES
+
+#EXTINF:-1, S02E15
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-015.mp4?ONSERIES
+
+#EXTINF:-1, S02E14
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-014.mp4?ONSERIES
+
+#EXTINF:-1, S02E13
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-013.mp4?ONSERIES
+
+#EXTINF:-1, S02E12
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-012.mp4?ONSERIES
+
+#EXTINF:-1, S02E11
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-011.mp4?ONSERIES
+
+#EXTINF:-1, S02E10
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-010.mp4?ONSERIES
+
+#EXTINF:-1, S02E09
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-009.mp4?ONSERIES
+
+#EXTINF:-1, S02E08
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-008.mp4?ONSERIES
+
+#EXTINF:-1, S02E07
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-007.mp4?ONSERIES
+
+#EXTINF:-1, S02E06
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-006.mp4?ONSERIES
+
+#EXTINF:-1, S02E05
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-005.mp4?ONSERIES
+
+#EXTINF:-1, S02E04
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-004.mp4?ONSERIES
+
+#EXTINF:-1, S02E03
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-003.mp4?ONSERIES
+
+#EXTINF:-1, S02E02
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-002.mp4?ONSERIES
+
+#EXTINF:-1, S02E01
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/02/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 2[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, S01E17
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-017.mp4?ONSERIES
+
+#EXTINF:-1, S01E16
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-016.mp4?ONSERIES
+
+#EXTINF:-1, S01E15
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-015.mp4?ONSERIES
+
+#EXTINF:-1, S01E14
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-014.mp4?ONSERIES
+
+#EXTINF:-1, S01E13
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-013.mp4?ONSERIES
+
+#EXTINF:-1, S01E12
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-012.mp4?ONSERIES
+
+#EXTINF:-1, S01E11
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-011.mp4?ONSERIES
+
+#EXTINF:-1, S01E10
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-010.mp4?ONSERIES
+
+#EXTINF:-1, S01E09
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-009.mp4?ONSERIES
+
+#EXTINF:-1, S01E08
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-008.mp4?ONSERIES
+
+#EXTINF:-1, S01E07
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-007.mp4?ONSERIES
+
+#EXTINF:-1, S01E06
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-006.mp4?ONSERIES
+
+#EXTINF:-1, S01E05
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-005.mp4?ONSERIES
+
+#EXTINF:-1, S01E04
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-004.mp4?ONSERIES
+
+#EXTINF:-1, S01E03
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-003.mp4?ONSERIES
+
+#EXTINF:-1, S01E02
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-002.mp4?ONSERIES
+
+#EXTINF:-1, S01E01
+http://origin.assistirserieshd.com:8081/vod/the-big-bang-theory/Dub/01/500-001.mp4?ONSERIES
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 1[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="American Horror Story - Audio(br)", [COLOR yellow]***American Horror Story Dublado***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, S04E13
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-013.mp4?grupoiptvglobal
+
+#EXTINF:-1, S04E12
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-012.mp4
+
+#EXTINF:-1, S04E11
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-011.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E10
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-010.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E09
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-007.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E08
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-008.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E07
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-007.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E06
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-006.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E05
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-005.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E04
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-004.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E03
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-003.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E02
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-002.mp4grupoiptvglobal
+
+#EXTINF:-1, S04E01
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Leg/04/500-001.mp4grupoiptvglobal
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 4[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, S03E13
+http://red.vidigvideo.com:8777/6bbeodv3tcgu3frmooipqgmz3jcugurb5xxqvsw34qgptewtvdrl2lawqhaa/v.flv?grupoiptvglobal
+
+#EXTINF:-1, S03E12
+http://red.vidigvideo.com:8777/6vbezcm5tcgu3frmoojpqxuts4a3db3455roqb3ggwtacb7hnw5jdllpsn6a/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E11
+http://red.vidigvideo.com:8777/6vbez64utcgu3frmooj7qxwyrbqb73v3542bd23rwdai4e7tqcchpycy5rcq/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E10
+http://red.vidigvideo.com:8777/6vbezreutcgu3frmooj7qggetmgrmtnv52h5l2in62jbyappnldemzgcgtsa/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E09
+http://red.vidigvideo.com:8777/7jbe2s4itcgu3frmooj7qsw23tsswjetlwchx5zkedgcenzdch7ftik2xq6q/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E08
+http://red.vidigvideo.com:8777/7jbe2veitcgu3frmooj7qg4srfqi4ixurr7matl5j45yiw4srjdkknft5iga/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E07
+http://red.vidigvideo.com:8777/7jbe2vmitcgu3frmooj7qggotqy35hreicd2qlxjno6i76uvdamv7m6r763a/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E06
+http://red.vidigvideo.com:8777/7jbe2vuitcgu3frmooj7qwe6rosxdjlhib5rjd3g767yutmxhlvchezhnt5a/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E05
+http://red.vidigvideo.com:8777/7jbe2v4itcgu3frmooj7qfustp42rumn54npzdw4dudxk53hyrtl2n25v3dq/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E04
+http://red.vidigvideo.com:8777/7jbe2ueitcgu3frmooj7qvo23yrlm4e3tcavvtsdxkjswv5asxrcsdprmgda/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E03
+http://red.vidigvideo.com:8777/7jbe2umitcgu3frmooj7qr4tr3r4zey3gom2sg3cz24lpjerxshe7jbjaxha/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E02
+http://red.vidigvideo.com:8777/7jbe2uuitcgu3frmooj7qxosr23hau7zmvlcgvgw2s3mkydyvrndnhzrrktq/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, S03E01
+http://red.vidigvideo.com:8777/7jbe2u4itcgu3frmooj7qv6gt3xw2rms67u27w7yn2kzbavczptmejcfpagq/v.mp4?grupoiptvglobal
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 3[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, S02E13
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-013.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E12
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-012.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E11
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-011.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E10
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-010.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E09
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-009.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E08
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-008.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E07
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-007.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E06
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-006.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E05
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-005.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E04
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-004.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E03
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-003.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E02
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-002.mp4?grupoiptvglobal
+
+#EXTINF:-1, S02E01
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/02/500-001.mp4?grupoiptvglobal
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 2[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+#EXTINF:-1, S01E12
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-012.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E11
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-011.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E10
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-010.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E09
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-009.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E08
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-008.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E07
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-007.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E06
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-006.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E05
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-005.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E04
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-004.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E03
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-003.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E02
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-002.mp4?grupoiptvglobal
+
+#EXTINF:-1, S01E01
+http://origin.assistirserieshd.com:8081/vod/american-horror-story/Dub/01/500-001.mp4
+
+#EXTINF:-1, [COLOR yellow]^ ^ ^[/COLOR] [COLOR green]TEMPORADA 1[/COLOR] [COLOR yellow]^ ^ ^[/COLOR]
+http://abcd1234.com.br swfUrl= pageUrl=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 radio=true group-title="RADIOS", [COLOR yellow]***RADIOS***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, 104.1 Rádio Sociedade FM (BR-RJ)
+http://servidor6.crossdigital.com.br:8056/;
+
+#EXTINF:-1, Rádio Band News FM (Rio de Janeiro)
+rtmp://evp.mm.uol.com.br/bnewsfm_rj/ playpath=bnewsfm_rj.sdp swfUrl=http://cdn-static.tunein.com/201506291347/js/lib/swf/player-AS3.swf pageUrl=http://tunein.com/radio/R%c3%a1dio-Band-News-FM-(Rio-de-Janeiro)-949-s98810/
+
+#EXTINF:-1, Radio-CBN-(Rio-de-Janeiro)
+rtmp://media.sgr.globo.com/CBNRD/ playpath=cbnrj.sdp swfUrl=http://cdn-static.tunein.com/201506291347/js/lib/swf/player-AS3.swf pageUrl=http://tunein.com/radio/Radio-CBN-(Rio-de-Janeiro)-925-s1143/
+
+#EXTINF:-1, 103.3 Rádio Cidade do Aço FM
+http://servidor6.crossdigital.com.br:8060/;
+
+#EXTINF:-1, Coca-Cola FM (Brasil)
+rtmp://s.imusicaradios.com.br/imusica_radio/ playpath=brasil.stream?url=tunein swfUrl=http://cdn-static.tunein.com/201506291347/js/lib/swf/player-AS3.swf pageUrl=http://tunein.com/radio/Coca-Cola-FM-(Brasil)-s144925/
+
+
+#EXTINF:-1, [COLOR yellow]***ROCK***[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, 181 Rock FM (USA)
+http://relay5.181.fm:8008/;?type=.flv&start=0
+
+#EXTINF:-1, teste 4
+rtmp://caikron.com.br:1935/jpcuritiba playpath=jp.sdp swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf pageUrl=http://www.radios.com.br/aovivo/Radio-Jovempan-103.9-FM/13401
+
+#EXTINF:-1, teste 5
+rtmp://caikron.com.br:1935/jpcuritiba playpath=jp.sdp swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf pageUrl=http://www.radios.com.br/aovivo/Radio-Jovempan-103.9-FM/13401
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]***BLUES***[/COLOR]
+http://0.0.0.0:0000
+
+#EXTINF:-1, teste 6
+rtmp://caikron.com.br:1935/jpcuritiba playpath=jp.sdp swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf pageUrl=http://www.radios.com.br/aovivo/Radio-Jovempan-103.9-FM/13401
