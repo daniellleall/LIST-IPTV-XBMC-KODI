@@ -7,7 +7,7 @@
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *UPDATE 02/07/2015* \o/
+#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *[COLOR green]UPDATE 08/07/2015[/COLOR]* \o/
 http://0.0.0.0:0000
 
 #EXTINF:-1 group-title="Informação/ Información/ Information", by DANIELL LEALL
@@ -222,6 +222,11 @@ rtmp://srv6.zoeweb.tv:1935/zt2/ playpath=stream
 
 #EXTINF:-1, REDE GOSPEL
 rtmp://media1.igospel.org.br:1935/live playpath=redegospel
+
+
+
+
+
 
 
 
@@ -460,74 +465,35 @@ http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF‬:-1,AXN
-rtmp://$OPT:rtmp-raw=rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.Tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
+#EXTINF:-1, Vevo HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:-1,HBO2
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.Tv-msn.com/player/player.swf live=1 pageUrl=http://Tv-msn.com/hbo2.html
+#EXTINF:-1, Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
-#EXTINF:-1,HBO Family
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.Tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html
+#EXTINF:-1, Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8 
 
-#EXTINF:-1,HBO Plus
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hboplus.html
+#EXTINF:-1, HBO
+rtmp://live.abcast.net/live/verc9439634dc8610f517991f
 
-#EXTINF:-1,MAX HD
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/maxhd.html
+#EXTINF:-1, PFC 
+rtmp://62.210.88.244:1935/liverepeat/fut09 pageUrl=http://www.ppcast.net/embedP/9.php?file=zuca9&width=468&height=386
 
-#EXTINF:-1,MGM
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mgm.html
+#EXTINF:-1, PFC 1 Em dias de Jogos
+rtmp://62.210.88.208:1935/liverepeat/201020 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359
 
-#EXTINF:-1,SONY
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sony.html
+#EXTINF:-1, PFC 2 Em dias de Jogos
+rtmp://62.210.83.180:1935/liverepeat/fut02 pageUrl=http://www.ppcast.net/embedP/2.php?file=poder2a&width=635&height=500
 
-#EXTINF:-1,SONY Spin
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sonyspin.html
+#EXTINF:-1, PFC 3 Em dias de Jogos 
+rtmp://62.210.83.180:1935/liverepeat/101010 pageUrl=http://www.ppcast.net/embedP/3.php?file=zuca3&width=468&height=359
 
-#EXTINF:-1,SPACE
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/space.html
+#EXTINF:-1, PFC 4 Em dias de Jogos
+rtmp://62.210.83.152:1935/liverepeat/fut07 pageUrl=http://www.ppcast.net/embedP/7.php?file=zuca7&width=468&height=359
 
-#EXTINF:-1,STUDIO UNIVERSAL
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/studio.html
-
-#EXTINF:-1,SYFY
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/syfy.html
-
-#EXTINF:-1,TC CULT
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tccult.html
-
-#EXTINF:-1,TC Pipoca
-rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Pipoca.html
-
-#EXTINF:-1,ESPN HD
-rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN%20HD.html
-
-#EXTINF:-1,FOX Sports
-rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
-
-#EXTINF:-1,DISNEY XD
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/disneyxd.html
-
-#EXTINF:-1,NICK HD / ESPORTE
-rtmp://$OPT:rtmp-raw=rtmp://31.204.153.72/live/ playpath=hd2 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/NickHD.html
-
-#EXTINF:-1,AeE
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ae.html
-
-#EXTINF:-1,DISCOVERY Investigação
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=liv swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/investigacao.html
-
-#EXTINF:-1,DISCOVERY TURBO
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/turbo.html
-
-#EXTINF:-1,History
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/history.html
-
-#EXTINF:-1, HOME and HEALTH Discovery
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=home swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/home.html
-
-#EXTINF:-1,NAT GEO
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/natgeo.html
+#EXTINF:-1, PFC 5 Em dias de Jogos
+rtmp://62.210.82.241:1935/liverepeat/fut06 pageUrl=http://www.ppcast.net/embedP/6.php?file=zuca6&width=468&height=359
 
 
 
@@ -536,49 +502,9 @@ rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://w
 
 
 
-#EXTINF:-1, [COLOR yellow]***[/COLOR] [COLOR green]CANAIS INFANTIS [/COLOR][COLOR yellow]***[/COLOR]
-http://abcd1234.com.br swfUrl= pageUrl=
 
-#EXTINF:-1, Boomerang
-rtmp://199.59.88.39/cam4-cr107 playpath=79 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=79&lar=660&alt=380 token=6144d16b93b7310b
 
-#EXTINF:-1, Baby TV
-rtmp://199.59.88.39/cam4-cr107 playpath=131 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=131&lar=660&alt=380 token=6144d16b93b7310b
 
-#EXTINF:-1, Cartoon Network
-rtmp://31.204.151.253/live playpath=brlive_0028 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=brlive_0028&lar=660&alt=380 token=6144d16b93b7310b
-
-#EXTINF:-1, Discovery Kids
-rtmp://31.204.151.253/live playpath=master24 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master24&lar=660&alt=380 token=6144d16b93b7310b
-
-#EXTINF:-1, Disney channel
-rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.tv-msn.com/disney.html token=6144d16b93b7310b
-
-#EXTINF:-1, Disney jr
-rtmp://r.livecast.cc/rl/ playpath=flash42sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream29.php
-
-#EXTINF:-1, Disney XD 
-rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyxd.html token=6144d16b93b7310b
-
-#EXTINF:-1, Gloob
-rtmp://31.204.151.253/live playpath=110hd swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=110hd&lar=660&alt=380 token=6144d16b93b7310b
-
-#EXTINF:-1, Nick Jr.
-rtmp://109.200.202.124/live playpath=nickjr swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/nickjr.html token=6144d16b93b7310b
-
-#EXTINF:-1, Nick HD
-rtmp://31.204.151.253/live/ playpath=brlive_0030 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Nickelodeon.html token=6144d16b93b7310b
-
-#EXTINF:-1, Tooncast
-rtmp://109.200.202.124/live playpath=tooncast swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/tooncast.html token=6144d16b93b7310b
-
-#EXTINF:-1, TV Ra Tim Bum
-rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chcasteloratimbum/2012/05/07/259bec05-1e02-4861-be50-6df7cd5a534d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://tvonlinebtv.net/streans/castelo.html
-
-#EXTINF:-1, TV Ra Tim Bum 
-rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ratimbum.html token=6144d16b93b7310b
-#EXTINF:-1 tvg-id="" tvg-logo="zoomoo.jpg" tvg-logo="http://logos.iptvglobal.com.br/zoomoo.jpg" group-title="Canais Infantis",ZooMoo
-http://wowza1.videos.movile.com:1935/live/infantil_1.smil/livestream.m3u8
 
 
 
@@ -597,12 +523,6 @@ http://wowza1.videos.movile.com:1935/live/infantil_1.smil/livestream.m3u8
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, Dois Homens e Meio
-rtmp://208.53.164.194/ctv playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/two.html
-
-#EXTINF:-1, Dois Homens e Meio [COLOR gray](Link 2)[/COLOR]
-http://62.210.88.244:8081/two/two/media_w346720864_541859.ts?nimblesessionid=360734&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE1IDEwOjI1OjQ4IFBNJmhhc2hfdmFsdWU9ck9TTk9DOFJOVHFiNkdCdWcrR1R2dz09JnZhbGlkbWludXRlcz0zMA==
-
 #EXTINF:-1, A Teoria do Big Bang
 rtmp://208.53.180.218/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
 
@@ -611,6 +531,12 @@ rtmp://208.53.180.130/ctv playpath=big swfUrl=http://www.canaistv.net/swf/player
 
 #EXTINF:-1, A Teoria do Big Bang [COLOR gray](Link 3)[/COLOR]
 rtmp://208.53.180.178/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf
+
+#EXTINF:-1, Dois Homens e Meio
+rtmp://208.53.164.194/ctv playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/two.html
+
+#EXTINF:-1, Dois Homens e Meio [COLOR gray](Link 2)[/COLOR]
+http://62.210.88.244:8081/two/two/media_w346720864_541859.ts?nimblesessionid=360734&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE1IDEwOjI1OjQ4IFBNJmhhc2hfdmFsdWU9ck9TTk9DOFJOVHFiNkdCdWcrR1R2dz09JnZhbGlkbWludXRlcz0zMA==
 
 #EXTINF:-1, Sobrenatural
 rtmp://208.53.180.218/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
@@ -715,6 +641,13 @@ rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-file
 
 
 
+
+
+
+
+
+
+
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
@@ -797,7 +730,7 @@ rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.
 #EXTINF:-1, Galinha Pintadinha
 rtmp://208.53.164.194/ctv playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/galinhapintadinha.html
 
-#EXTINF:-1, O maskara
+#EXTINF:-1, O Maskara
 rtmp://208.53.180.130/ctv playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
 
 #EXTINF:-1, Manda chuva
@@ -815,7 +748,7 @@ rtmp://85.12.5.8/aovivo playpath=padrinhos swfUrl=http://www.tvonlinegratis.tv/p
 #EXTINF:-1, Papa-leguas
 rtmp://212.129.30.215/papaleguas/papaleguas playpath=papaleguas swfUrl=http://www.vertvgratis.eu/player.swf&iptvglobal pageUrl=http://www.vertvgratis.eu/parceiros/papaleguas.html
 
-#EXTINF:-1, Peppa Pig [COLOR red][I][B][I][B] Off [/B][/I][/COLOR]
+#EXTINF:-1, Peppa Pig [COLOR red]OFF  =([/COLOR]
 rtmp://195.154.222.28/peppapig/peppapig playpath=peppapig swfUrl=http://www.tvonlinegratis.tv/player.swf?iptvglobal live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/peppapig.php
 
 #EXTINF:-1, Thunder Cats [classico]
@@ -827,8 +760,69 @@ rtmp://208.53.164.194/ctv playpath=thunder swfUrl=http://www.carolineoliveira.co
 #EXTINF:-1, Thunder Cats (Nova Geração)
 rtmp://195.154.222.28/thundercats/thundercats playpath=thundercats swfUrl=http://www.tvonlinegratis.tv/player.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/thundercats.php
 
-#EXTINF:-1, Uma familia da pesada
+#EXTINF:-1, Uma Familia da Pesada
 rtmp://208.53.164.194/ctv playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Portugal Canais", [COLOR yellow]***Portugal Canais***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+ 
+#EXTINF:-1, EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+ 
+#EXTINF:-1, SIC NOTICIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
+
+ 
+#EXTINF:-1, RTP INFORMACAO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -854,6 +848,35 @@ rtmp://95.211.184.231/live playpath=cartoonnw?id=227395 swfUrl=http://www.mipspl
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
@@ -861,8 +884,35 @@ rtmp://95.211.184.231/live playpath=cartoonnw?id=227395 swfUrl=http://www.mipspl
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, El Chavo
-rtmp://192.240.125.26:443/live?Dt9tncrN8JfAoDvfGNnAOCVrLKetFOtH playpath=live_mega_chavo swfUrl=http://vaughnlive.tv/4302642219/swf/VaughnSoftPlayer.swf
+#EXTINF:-1, El Chavo [COLOR red]OFF  =([/COLOR]
+rtmp://192.240.fgdfgdf125.26:443/live?Dt9tncrN8JfAoDvfGNnAOCVrLKetFOtH playpath=live_mega_chavo swfUrl=http://vaughnlive.tv/4dfgdfgfdgdfg302642219/swf/VaughnSoftPlayer.swf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -877,19 +927,39 @@ rtmp://192.240.125.26:443/live?Dt9tncrN8JfAoDvfGNnAOCVrLKetFOtH playpath=live_me
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1, Dragon Ball Z
+#EXTINF:-1, Dragon Ball Z [COLOR red]OFF  =([/COLOR]
 rtmp://198.255.5.66:443/live?HXgZBA7awZ4k9HS7X01uJGbuEFqBLgcT playpath=live_mega_animes
 
-#EXTINF:-1, Dragon Ball Z
-rtmp://198.255.0.18:443/live?or9cxM73ygyDsE33JFk9fWh8VKGFiGcy playpath=live_mega_animes
-
-
-
-#EXTINF:-1, Los Simpsons
+#EXTINF:-1, Los Simpsons [COLOR red]OFF  =([/COLOR]
 rtmp://204.45.157.98/app playpath=16051?MTQzNTEzNDMxNDs2NjNiNzViMTk1ODg0NzlmMmZhMTlkZDFiMjcwNzRkNg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a41324e545a6a4e6a6b324d7a63314e6d4d324d54637a4e6a67324e413d3d/920acecd71ef
 
-#EXTINF:-1, Caballeros del Zodiaco
+#EXTINF:-1, Caballeros del Zodiaco [COLOR red]OFF  =([/COLOR]
 rtmp://50.7.78.138:443/live?S6TI6Ny9z2KBo4Lo8WDO8c9jhJ6JUWXZ playpath=live_mega_bot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1064,6 +1134,21 @@ http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8#MegaIPTVA
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
@@ -1094,6 +1179,28 @@ rtmp://live.soltvperu.com/soltv/soltv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
@@ -1118,6 +1225,26 @@ rtmp://182.92.189.193/live/ playpath=h_music_1 swfUrl=http://www.hupo.tv/jwplaye
 
 #EXTINF:-1, Food HD 720P
 rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1769,6 +1896,18 @@ http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
@@ -1930,12 +2069,33 @@ http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------------------------------------------------------------------------------#
 
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 #EXTINF:-1 group-title="USA Channels", [COLOR yellow]***USA Channels***[/COLOR]
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, HBO [COLOR green]HD[/COLOR]
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
 
 #EXTINF:-1, #EXTINF:-1,ABC News [COLOR green]HD[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -2020,6 +2180,18 @@ http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 #EXTINF:-1 , Stock News
 rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
+
+#EXTINF:1, MTV HITS
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$
+ 
+#EXTINF:1, MTV ROCKS
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$
+ 
+#EXTINF:1, MTV DANCE
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$
+ 
+#EXTINF:1, MCM TOP
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
 
 #EXTINF:-1, MSNBC
 rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/?husham.com
@@ -2611,7 +2783,103 @@ http://media-br-am.crackle.com/1/q/d6/42vlf_480p_1mbps.mp4
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Dragon Ball Super (Sub - BR)", [COLOR yellow]***Dragon Ball Super***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
+#EXTINF:-1, Dragon Ball Super 01
+http://videohd2.mais.uol.com.br/15528409.mp4?p=1&r=http%3A%2F%2Fmais.uol.com.br
+
+
+
+
+
+
+
+
+
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+#EXTINF:-1 group-title="Death Note (Audio - br)", [COLOR yellow]***Death Note***[/COLOR]
+http://0.0.0.0:0000
+#///////////////////////////////////////////////////////////////////////////////////////////////////////#
+
+#EXTINF:-1, s01e01
+http://media-br-am.crackle.com/1/g/l6/ldwlf_480p.mp4
+#EXTINF:-1, s01e02
+http://media-br-am.crackle.com/1/f/l6/kdwlf_480p.mp4
+#EXTINF:-1, s01e03
+http://media-br-am.crackle.com/1/g/l6/mdwlf_480p.mp4
+#EXTINF:-1, s01e04
+http://media-br-am.crackle.com/1/s/l6/zewlf_480p.mp4
+#EXTINF:-1, s01e05
+http://media-br-am.crackle.com/1/r/l6/yewlf_480p.mp4
+#EXTINF:-1, s01e06
+http://media-br-am.crackle.com/1/s/l6/1ewlf_480p.mp4
+#EXTINF:-1, s01e07
+http://media-br-am.crackle.com/1/s/l6/0ewlf_480p.mp4
+#EXTINF:-1, s01e08
+http://media-br-am.crackle.com/1/t/l6/5ewlf_480p.mp4
+#EXTINF:-1, s01e09
+http://media-br-am.crackle.com/1/t/l6/4ewlf_480p.mp4
+#EXTINF:-1, s01e10
+http://media-br-am.crackle.com/1/t/l6/3ewlf_480p.mp4
+#EXTINF:-1, s01e11
+http://media-br-am.crackle.com/1/s/l6/2ewlf_480p.mp4
+#EXTINF:-1, s01e12
+http://media-br-am.crackle.com/1/v/l6/efwlf_480p.mp4
+#EXTINF:-1, s01e13
+http://media-br-am.crackle.com/1/v/l6/dfwlf_480p.mp4
+#EXTINF:-1, s01e14
+http://media-br-am.crackle.com/1/v/l6/cfwlf_480p.mp4
+#EXTINF:-1, s01e15
+http://media-br-am.crackle.com/1/v/l6/bfwlf_480p.mp4
+#EXTINF:-1, s01e16
+http://media-br-am.crackle.com/1/u/l6/afwlf_480p.mp4
+#EXTINF:-1, s01e17
+http://media-br-am.crackle.com/1/u/l6/9ewlf_480p.mp4
+#EXTINF:-1, s01e18
+http://media-br-am.crackle.com/1/z/l6/tfwlf_480p.mp4
+#EXTINF:-1, s01e19
+http://media-br-am.crackle.com/1/z/l6/sfwlf_480p.mp4
+#EXTINF:-1, s01e20
+http://media-br-am.crackle.com/1/z/l6/rfwlf_480p.mp4
+#EXTINF:-1, s01e21
+http://media-br-am.crackle.com/1/y/l6/qfwlf_480p.mp4
+#EXTINF:-1, s01e22
+http://media-br-am.crackle.com/1/y/l6/pfwlf_480p.mp4
+#EXTINF:-1, s01e23
+http://media-br-am.crackle.com/1/y/l6/ofwlf_480p.mp4
+#EXTINF:-1, s01e24
+http://media-br-am.crackle.com/1/y/l6/nfwlf_480p.mp4
+#EXTINF:-1, s01e25
+http://media-br-am.crackle.com/1/x/l6/mfwlf_480p.mp4
+#EXTINF:-1, s01e26
+http://media-br-am.crackle.com/1/x/l6/lfwlf_480p.mp4
+#EXTINF:-1, s01e27
+http://media-br-am.crackle.com/1/x/l6/kfwlf_480p.mp4
+#EXTINF:-1, s01e28
+http://media-br-am.crackle.com/1/x/l6/jfwlf_480p.mp4
+#EXTINF:-1, s01e29
+http://media-br-am.crackle.com/1/w/l6/ifwlf_480p.mp4
+#EXTINF:-1, s01e30
+http://media-br-am.crackle.com/1/w/l6/hfwlf_480p.mp4
+#EXTINF:-1, s01e31
+http://media-br-am.crackle.com/1/b/l6/1fwlf_480p.mp4
+#EXTINF:-1, s01e32
+http://media-br-am.crackle.com/1/b/l6/0fwlf_480p.mp4
+#EXTINF:-1, s01e33
+http://media-br-am.crackle.com/1/a/l6/zfwlf_480p.mp4
+#EXTINF:-1, s01e34
+http://media-br-am.crackle.com/1/a/l6/yfwlf_480p.mp4
+#EXTINF:-1, s01e35
+http://media-br-am.crackle.com/1/a/l6/wfwlf_480p.mp4
+#EXTINF:-1, s01e36
+http://media-br-am.crackle.com/1/a/l6/vfwlf_480p.mp4
+#EXTINF:-1, s01e37
+http://media-br-am.crackle.com/1/z/l6/ufwlf_480p.mp4
 
 
 
