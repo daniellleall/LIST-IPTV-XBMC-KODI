@@ -7,7 +7,7 @@
 http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *[COLOR green]UPDATE 08/07/2015[/COLOR]* \o/
+#EXTINF:-1 group-title="Informação/ Información/ Information", \o/ *[COLOR green]UPDATE 10/07/2015[/COLOR]* \o/
 http://0.0.0.0:0000
 
 #EXTINF:-1 group-title="Informação/ Información/ Information", by DANIELL LEALL
@@ -32,19 +32,10 @@ http://0.0.0.0:0000
 #///////////////////////////////////////////////////////////////////////////////////////////////////////#
 
 #EXTINF:-1, Rede Globo
-rtmp://r.livecast.cc/rl/ playpath=bob15sd swfurl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/stream13.php
+rtmp://86.106.137.10/live?token=ANQQC8ZAx9w54vKR4sBHuQExpired=1436504898 playpath=ver0f677a5fe17696ca128af0  swfUrl=http://abcast.net/ab.swf  pageUrl=http://abcast.net/assista.php?file=brasil&width=468&height=360
 
 #EXTINF:-1, Rede Globo [COLOR gray](Link 2)[/COLOR]
-rtmp://62.210.88.233:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE1IDk6MTg6MzcgUE0maGFzaF92YWx1ZT16N213VGNTOUdpMTlZc0xWTzlnZytRPT0mdmFsaWRtaW51dGVzPTMwMDA=/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds/1.php?c=tudonovo23&vw=100%&vh=100%
-
-#EXTINF:-1, Rede Globo [COLOR gray](Link 3)[/COLOR]
-rtmp://62.210.83.180:1935/liverepeat/ playpath=101010  swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://www.ppcast.net/embedP/3.php?file=zuca3&width=468&height=359
-
-#EXTINF:-1, Rede Globo [COLOR gray](Link 4)[/COLOR]
-rtmp://217.23.7.178/livepkgr playpath=sptv swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/78.php?file=sptv&width=470&height=370
-
-#EXTINF:-1, Rede Globo [COLOR gray](Link 5)[/COLOR]
-http://62.210.83.154:1935/liverepeat/101010/playlist.m3u8
+rtmp://86.106.137.11/live?token=vr2sH43UXOn6CxxysAaa_QExpired=1436505505 playpath=ver0f677a5fe17696ca128af0 swfUrl=http://abcast.net/ab.swf pageUrl=http://abcast.net/assista.php?file=brasil&width=468&height=360
 
 #EXTINF:-1 , SBT
 http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
